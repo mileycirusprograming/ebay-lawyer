@@ -57,7 +57,7 @@ print(url)
 #print("Agb: " + agb)
 #print("Widerrufsbelehrung: " + widerrufsb + "\n")
 
-print (check_blacklist("listen/blacklist_widerspruechliche_Widerrufsfristen.txt", rechtl))
+print (check_blacklist("listen/blacklist widersprüchliche Widerrufsfristen.txt", rechtl))
 print (check_mandatory("listen/mandatory gesetzliche Mängelhaftung.txt", widerrufsb))
 
 #print (widerrufsb)
