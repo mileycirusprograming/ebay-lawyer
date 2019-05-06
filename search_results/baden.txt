@@ -1,0 +1,196 @@
+ +++ https://www.ebay.de/itm/Baden-Nr-15-Farben-gestempelt/372660226844?hash=item56c447cb1c:g:4kgAAOSwyO1cxEbO
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Nr-20-Farben-gestempelt/372660225124?hash=item56c447c464:g:-UEAAOSw4nRcxEVT
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Altdeutschland-Baden-Brief-Mannheim-Heidelberg-1856-EF-MiNr-6-Unterrand/233217562773?hash=item364cd99895:g:5y8AAOSwjwpczqby
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt', 'blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-3a-gestempelt-signiert-Graf-Strachwitz-O726/362636059170?hash=item546ecb2222:g:A4EAAOSwjixcxvXn
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Lot-gestempelt/352653108405?hash=item521bc364b5:g:u~YAAOSw0gxcyINc
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-10c-gestempelt-O724/362636059131?hash=item546ecb21fb:g:t7oAAOSw3AFcxvXb
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Altdeutschland-Baden-Brief-Karlsruhe-Hausach-EF-MiNr-7/382934814230?hash=item5928b18e16:g:iF4AAOSwAeNczZNm
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt', 'blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Porto-Mi-Nr-1x-gest-ETTLINGEN-gepruft-Geb-Senf-400-Euro/392290411632?hash=item5b5654a470:g:5TYAAOSw2cRczVZB
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Porto-Mi-Nr-2y-gest-gepruft-Geb-Senf-500-Euro/392290411651?hash=item5b5654a483:g:SisAAOSw5e9czVZJ
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-zwei-Ganzsachen-aus-Mannheim/173892338980?hash=item287cca8524:g:FggAAOSwW6RczGDs
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Mi-Nr-16-gest-einwandfrei-350-Euro/392290411667?hash=item5b5654a493:g:qSgAAOSw3AFczVZN
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-1-Kr-3-Kr-auf-Brief-RADOLFZELL-MARKDORF-1868/183799779137?hash=item2acb520f41:g:Rw8AAOSwSf9czuhh
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt', 'blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-nicht-entwertete-Portomarken-auf-Dienst-Nachnahme-Engen-Tengen/362638722868?hash=item546ef3c734:g:zu0AAOSwt~1czCaP
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Mi-Nr-7-8-gestempelt-auf-Briefstuck/362633890734?hash=item546eaa0bae:g:s6gAAOSwdyxcxHuy
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Lot-gestempelt-auf-voller-Steckkarte-Mi-445/254213031833?hash=item3b30470799:g:qzwAAOSwZ79cxHw4
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Uhrradstempel-11-auf-dienstbrief-Menzenschwand-St-Blasien-1859/362638721470?hash=item546ef3c1be:g:fkcAAOSwSt5czCYi
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-funf-Vorphilabriefe-mit-verschiedenen-Orten/183797594982?hash=item2acb30bb66:g:Z8YAAOSw8uFczGOk
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-drei-Marken-mit-Nr-Stpl-139-Stockach/183793590395?hash=item2acaf3a07b:g:QgAAAOSwp9BcyEbr
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Durlach-3-Kreuzer-1834-Leopold-1830-1852-Vz-St-336/293075031964?hash=item443ca2179c:g:wDQAAOSwGNBczUjp
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Landpost-Porto-Mi-Nr-1-3-Falzrest-Mi-50/254213030908?hash=item3b304703fc:g:tpgAAOSwok9cxHvc
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/10-Billon-Munzen-Altdeutschland-Baden-22-11/382931650087?hash=item5928814627:g:fxYAAOSw9y1cy0oq
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Franz-Zone-Baden-Block-1-A-B-postfrisch-Michel-150/352652357155?hash=item521bb7ee23:g:O1wAAOSwXUNcxzus
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt', 'blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Durlach-3-Kreuzer-1866-Erstabschlag-Friedrich-I-fast-St-335/293075027597?hash=item443ca2068d:g:bu8AAOSwXdpczUgP
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/pb698-BADEN-MiNr-21a-o-2x-gepruft-Seeger-BPP-KAT-700-00/254218432395?hash=item3b30996f8b:g:s8AAAOSwf5Fcyyxf
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-Mi-Nr-14b-gestempelt-Mi-100/362633889775?hash=item546eaa07ef:g:jeoAAOSwrldcxHrc
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Alliierte-Besetzung-Frz-Zone-Baden-Block-1-B-postfrisch/312596336417?hash=item48c8318f21:g:9EoAAOSwXCVcb-1r
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt', 'blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Briefmarken-Franzosische-Zone-Baden-42-45-A-postfrisch-Rotes-Kreuz/312596336539?hash=item48c8318f9b:g:HMgAAOSwaPNb9ynr
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt', 'blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Baden-4a-gestempelt-O725/362636059153?hash=item546ecb2211:g:5dgAAOSw2EJcxvXf
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt', 'mandatory - technische Schritte.txt']
+
+

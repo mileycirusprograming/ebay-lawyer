@@ -1,0 +1,14 @@
+ +++ https://www.ebay.de/itm/Motorroller-Retro-Roller-Scooter-Luna-Babyblau-50-CCM-45-KMH/202671713786?hash=item2f302cedfa:g:xuYAAOSwtl1c0DBO
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt']
+
+
+ +++ https://www.ebay.de/itm/Motorroller-Retro-Roller-Scooter-Luna-Grau-50-CCM-45-KMH/192908751204?hash=item2cea41f164:g:5TYAAOSwrqhc0Cuf
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory Widerrufsfrist.txt', 'mandatory ODR link.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Widerrufsformular.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory E-Mail.txt', 'mandatory - technische Schritte.txt']
+
+
