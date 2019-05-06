@@ -1,16 +1,13 @@
 # Shop-Crawler
 
 
-## Install
+### Installation
 
-* Install Python 
-https://www.python.org/downloads/windows/
-
-* Download Application from this site
-
-* Execute *Install.bat*
+* Execute **install.bat** (Install Python)
 
 
-## Run
+### Running the application
 
-* Execute *Run.bat"
+* Execute **shop-crawler.bat**
+* Enter search query, e.g. *Apple*
+* Results appear in **search_results**
