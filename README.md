@@ -3,6 +3,8 @@
 
 ### Installation
 
+* Download application from this site (*Clone or download* -> *Download ZIP*)
+* Unpack **shop-crawler-master.zip**
 * Execute **install.bat** (Install Python)
 
 
