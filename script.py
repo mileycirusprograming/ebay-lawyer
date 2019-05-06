@@ -36,12 +36,11 @@ def check_mandatory(mandatorylist_path, text):
     lines = file_handler.read().splitlines()
 
     #check for every mandatory word
-    missing_words = []
     for line in lines:
-        if text.find(line) == -1:
-            #mandatory word not found
-            missing_words.append(str(line))
-    return list(dict.fromkeys(missing_words))
+        if text.find(line) > -1:
+            #mandatory word found
+            return False
+    return True
 
 def get_html(url):
     # Downloads the eBay page for processing
@@ -83,7 +82,7 @@ def evaluate(url):
                 check = check_mandatory(mandatory_path, get_text)
                 if check:
                     mandatory.append(str(os.path.basename(mandatory_path)))
-                    mandatory_details.extend(check)
+                    mandatory_details.append(str(os.path.basename(mandatory_path)))
 
     return sorted(dict.fromkeys(blacklisted), reverse=True), sorted(dict.fromkeys(blacklisted_details), reverse=True), sorted(dict.fromkeys(mandatory)), sorted(dict.fromkeys(mandatory_details), reverse=True)
 
