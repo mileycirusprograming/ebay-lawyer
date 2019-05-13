@@ -1,0 +1,168 @@
+ +++ https://www.ebay.de/itm/Faltbox-Regalbox-Faltkiste-Box-Aufbewahrungsbox-Kiste-Kinder-Staubox-Korb-Regal/122926654981?hash=item1c9effe605:m:mTLdO6FbKYkR8wOro3JWqDg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/AVM-FRITZBox-7390-VDSL-DSL-Modem-Gigabit-WLAN-DECT-REPEATER-TOP/263997718501?hash=item3d777d7fe5:g:jd4AAOSwWudbuMti
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/3er-Set-30-x-30-x-30-Aufbewahrungs-box-Spielkiste-Regalkorb-Faltkiste-Korb-Stoff/122724632646?hash=item1c92f54846:m:mFMbeSkz4igMpJvIZLJA-bg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Schuhbox-Set-mit-Deckel-stapelbar-Aufbewahrungsbox-Kunststoffbox/382356782211?hash=item59063d7c83:m:mszr4CAgDdMga4xLDedAxqA
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/IKEA-DRONA-Fach-Box-fur-KALLAX-EXPEDIT-Regal-Aufbewahrungsbox-Kiste-33x38x33cm/183000075950?hash=item2a9ba78eae:m:mbzcVRx_Q5iUeoFtsQqHTrw
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/AUFBEWAHRUNGSBOX-TRANSPARENT-BOX-KUNSTSTOFFBOX-KLAPPBOX-PLASTIKBOX-1-30l/281937443006?hash=item41a4c7f8be:m:myGceGe2TJGWOzgtG3PAcOQ
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/3er-Set-33x33x33-Aufbewahrungsbox-Spielkiste-Regalkorb-Faltkiste-Korb-Stoff-Box/112408334504?hash=item1a2c0f10a8:m:mxQZPLqAm7avRICtsIdCS_g
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/4er-Set-Faltbox-Schwarz-32-x-32-cm-Faltkiste-Regalbox-Aufbewahrungsbox-Stoffbox/401654389805?hash=item5d84779c2d:g:jTIAAOSwuwNZivL0
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/AVM-FRITZBox-7360-VDSL-DSL-VOIP-Modem-Gigabit-Router-2-Jahre-Gewahrleistung/252477757153?epid=109508491&hash=item3ac8d8d6e1:g:pG8AAOSwyXhZwAox
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsboxen-ClipBox-mit-Deckel-aus-Kunststoff-Kunststoffboxen-1-70L/192139049411?hash=item2cbc6139c3:m:mWWwUY9kWqQp9oyQWXjUiLw
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/4-x-IKEA-DRONA-Fach-Box-KALLAX-EXPEDIT-Aufbewahrungsbox-33x38x33cm-Kiste-4er-Set/183298288833?hash=item2aad6decc1:m:mZas_yXxMwJjDr1Cl7Ncw_Q
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/3x-Faltbox-Klappbox-3er-Set-Faltkiste-Aufbewahrung-32x32x32-cm-Regal-Stoff-Box/123690106857?hash=item1ccc813fe9:m:m0XPLc7FqYc4MbVs9qfhllg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-Deckel-Curver-Ordnung-Aufbewahrung-Box-4-5-11-17-30-45-Liter/123656055453?epid=556919278&hash=item1cca79aa9d:m:m526exxuvpHsTCFls48wG0Q
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Allzweckkiste-kiefer-Holzkiste-Holzbox-Kiste-Aufbewahrung-Ordnung-Spielzeugkiste/321607040556?hash=item4ae145fe2c:m:meFOenNyAT31HhKmBygg3_w
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-mit-Deckel-RETRO-Box-Kiste-Schachtel-15-und-47-L-aus-Karton/112572505047?hash=item1a35d81bd7:m:mo4Yq0mk5jGCkGVnJnoxbmw
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/AVM-FRITZBox-7390-VDSL-DSL-Modem-Gigabit-REPEATER-WIE-NEU/173591550209?hash=item286adcd901:g:GY8AAOSwsGpbxdkN
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-3er-Set-mit-Deckel-Stapelbox-Deko-Box-Pappe-Kiste-Karton-Blumen/303107453954?hash=item46929cb402:g:CMYAAOSwpLxcmR4w
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/3er-Set-Aufbewahrungsbox-Spielkiste-Regalkorb-Faltkiste-Korb-Kinderbox-Stoff-Box/112353861367?hash=item1a28cfdef7:m:m7v71aEihZTg5H3Pyz9ZiYA
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Faltbox-33-x-33-x-33-cm-passend-fur-Ikea-Kallax-Expedit-Einschubkorb-Regal-box/122548551366?hash=item1c88767ec6:m:mbpjqr06CfdTCbjnwlNy0cg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/VCM-10er-Set-Faltbox-Klappbox-Sammelbox-Stoffbox-Regalbox-Regalkorb-Boxas/183468808478?hash=item2ab797d91e:m:m5dfwUjauXDuosiJF_VUUYg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/IKEA-DRONA-Fach-Box-KALLAX-EXPEDIT-Aufbewahrungsbox-33x38x33cm-Kiste-Schachtel/183057890942?hash=item2a9f19be7e:m:m6Xe38f3SfOJBWEbKr3bTAg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Allzweckbox-Holzkisten-Aufbewahrungskisten-Mehrzweckkisten-Holz-natur-24-Grosen/123341576071?hash=item1cb7bb1787:m:mSBRY6kNs4_u003D1ZadXZg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory E-Mail.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/AVM-FRITZ-Box-7590-Dual-Band-WLAN-Router-MU-MIMO-Supervectoring-VDSL-wie-neu/323451043313?epid=2255299193&hash=item4b4f2f3df1:g:KVgAAOSwvytcBmLq
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/4x-UNTERBETTKOMMODE-SCHWARZ-Reisverschluss-Unterbett-Box-Kommode-Folie-Set/112311144529?hash=item1a26441051:m:mwiqVTa1sfCvdDgfiE6h8Jg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+

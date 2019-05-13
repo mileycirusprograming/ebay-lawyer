@@ -1,0 +1,350 @@
+ +++ https://www.ebay.de/itm/Tescoma-Butterdose-Butterglocke-fur-Kuhlschrank-Edelstahl-250g/302430516631?epid=27011370515&hash=item466a437597:g:uncAAOSwevlaA0yU
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Porzellan-Butterdose-weis/323771883343?hash=item4b624edf4f:g:K6IAAOSw1vxcrGF2
+
+blacklisted:['vierzehn Tage', '30 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Tupperware-Butterdosen/303139992417?hash=item46948d3361:m:m2Y-QA9z6DpwG3zdc5g0fZg
+
+blacklisted:['vierzehn Tage', 'Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/homiez-Kuhlschrankbutterdoe-Butterdose-anthrazit/303145614314?epid=1464901377&hash=item4694e2fbea:g:FjAAAOSwG1Jb73WR
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/64363-Pasabahce-Basic-Butterdose-Butterglocke-Butterbehalter-19-5-x-13-cm/332387718833?epid=1444942666&hash=item4d63da16b1:g:iyMAAOSwcchcmg5-
+
+blacklisted:['1 Monat']
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose/254225429968?hash=item3b310435d0:g:StEAAOSwxXJc1AVa
+
+blacklisted:['vierzehn Tage', '14 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/2x-Butterdose-aus-Glas-Kuh-17cm-mit-Deckel-Arcoroc-Butterglocke-Schale-Butterbox/232979971155?hash=item363eb03c53:g:rLYAAOSwQzJb0f21
+
+blacklisted:['vierzehn Tage', '14 Tage', '1 Monat']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Tupperware-Butterdose-Matt-weis-schwarz-C21/323373892911?hash=item4b4a96052f:g:IfgAAOSw1tRcpeir
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Porzellan-weis-Kuchendose-Dose-Butter-Butteraufbewahrung/162604503601?hash=item25dbfbd231:g:8nYAAOSw0nJZd0UP
+
+blacklisted:['vierzehn Tage', '60 Tage', '1 Monat']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Butterglocke-Porzellan-MPM-Saxonia-mit-bunten-Wiesenblumen/283479956048?hash=item4200b8da50:g:2XIAAOSw4IVcBoSw
+
+blacklisted:['vierzehn Tage', '14 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Butterglocke-fur-Kuhlschrank-Dose-Butterglocke-Butterschale-Edelstahl/183560034588?hash=item2abd07d91c:g:SqcAAOSwInJcuC41
+
+blacklisted:['vierzehn Tage', '14 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/BUTTERDOSE-19x13-5-cm-PORZELLAN-fur-250-g-Butterbox-Butterbehalter/401736749947?hash=item5d8960537b:g:fKMAAOSwdrRXGJZ3
+
+blacklisted:['vierzehn Tage', '30 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/PIP-Studio-Butterdose-Hummingbirds-blau-NEU/362648423998?hash=item546f87ce3e:g:KocAAOSwEB5c2dK~
+
+blacklisted:['vierzehn Tage', '14 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/homiez-Kuhlschrankbutterdoe-Butterdose-Weis/303146464954?hash=item4694eff6ba:g:wr4AAOSw1hJb72~g
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-schwarz-innovative-Butterglocke-Butterschale-Wasserlagerung/401765568965?hash=item5d8b1811c5:g:hpgAAOSwUetc1yjK
+
+blacklisted:['vierzehn Tage', '14 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Kuhlschrankbutterdose-Butterglocke-Butterschale-Butter-Box-Edelstahl/183098633535?hash=item2aa1876d3f:g:SjkAAOSwGHxczuJ2
+
+blacklisted:['vierzehn Tage', '14 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Becel-Margarinendose-Butterdose-Frischhaltedose-NEU/223507381646?hash=item340a13fd8e:g:I~kAAOSwsydcy0F7
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Kuhlschrankbutterdose-Butterdose-mit-Knauf-Edelstahl-NEU/151666189983?epid=1724835653&hash=item235002669f:g:UTYAAOSwOu5ZpqQb
+
+blacklisted:['30 Tage', '14 Tage', '1 Monat']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/KUHLSCHRANK-BUTTERDOSE-chg-EDELSTAHL-fur-250-g-Butter/202105957035?hash=item2f0e742aab:g:AVEAAOSwehZaAXIA
+
+blacklisted:['vierzehn Tage', '30 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/alte-GLAS-BUTTERDOSE-aus-dickem-Pressglas-hygienisch-Fruhstuck-Tafel-Deko/392269340604?hash=item5b55131fbc:g:79kAAOSwysVcoeM~
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Edelstahl-Butter-Box-Butterglocke-Butterbehalter-Schale-Kuhlschrank/311478776438?hash=item488594f276:g:7JMAAOSwdHxbvKDw
+
+blacklisted:['vierzehn Tage', '30 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/AK-Kaiser-Butterdose-Moosrose-wie-neu-Vitrinenstuck-rechteckig-250-g-TOP/183801943639?hash=item2acb731657:g:AOYAAOSw1lxcw9x2
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Glas-Holz-Gefas-Zuckerdose-Serviergeschirr-Kuchengeschirr/122834590743?hash=item1c99831c17:m:mXi-rOMzJqP2XokKiD-ANmA
+
+blacklisted:['vierzehn Tage', '30 Tage', '1 Monat']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/03901-Luminarc-Classic-Butterdose-Butter-Dose-Butterschale-Butterglocke-Glas-10/332321407415?epid=1704751347&hash=item4d5fe641b7:g:8NcAAOSwysBcmLqT
+
+blacklisted:['1 Monat']
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-klein-fur-125-g-Butter-von-Maxwell-Williams/192062464394?epid=2255593706&hash=item2cb7d0a18a:g:K~sAAOSw32lcyV55
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-mit-Deckel-Butterbehalter-Keramik-Handbemalt-Bunt/293065171802?hash=item443c0ba35a:g:i-IAAOSwfHBcww~-
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Melamin-Butterdose-rot-Faplana-Portugal-Original-60er-Jahre-Design/173811478695?hash=item2877f8b0a7:g:fvIAAOSwjyNansij
+
+blacklisted:['vierzehn Tage', '60 Tage']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/BUTTERDOSE-EDELSTAHL-Metaltex-fur-250-g-Butterbox-Butterbehalter/201708254416?hash=item2ef6bfb4d0:g:OPEAAOSwHMJYG4eR
+
+blacklisted:['vierzehn Tage', '30 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/klassische-Butterdose-Edelstahl-fur-250g-Butter-glanzend/153482977031?hash=item23bc4c5f07:g:5BYAAOSwVD9c1UO9
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/BUTTERDOSE-Butterglocke-Butterschale-Butter/263986728901?hash=item3d76d5cfc5:g:IB8AAOSwtLxcZYyW
+
+blacklisted:['vierzehn Tage', 'dreißig Tage']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Butterglocke-Butterschale-Butter-EDELSTAHL-Dose-Schale/163647805276?hash=item261a2b575c:g:HGQAAOSwdzBcsbDp
+
+blacklisted:['vierzehn Tage', '14 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Edle-Butterdose-aus-Glas-mit-Glasdeckel-Transparent-Butterglas-170-x-102-mm/192305593850?hash=item2cc64e7dfa:g:QEoAAOSwJstatNfj
+
+blacklisted:['ein Monat', '60 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Rader-Design-Butter-Dose-Glocke-Schale-Alles-in-Buddha-gros-250g/173894197197?hash=item287ce6dfcd:g:I4UAAOSwPVpczxCa
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Keramik/323800372469?hash=item4b640194f5:g:0RAAAOSw2~1c0aZs
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Villeroy-Boch-Val-Bleu-Butterdose/392291832249?hash=item5b566a51b9:g:V48AAOSwq5Bc0Etm
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/CreaTable-18257-Butterdose-UNIVERSAL-mit-Deckel-fur-250-g-Butter-Butteraufbewa/153282568939?epid=1037867245&hash=item23b05a62eb:g:0vAAAOSwS4Vb~-D0
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/WMF-Butterdose-Knackig-frisch-Edelstahl-rostfrei-NEU/262930547670?epid=4030000529&hash=item3d37e1c3d6:g:bgwAAOSwNDZbM6VE
+
+blacklisted:['vierzehn Tage', 'ein Monat']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/WMF-Butterdose-Dr-Wagenfeld/133049144787?hash=item1efa58d5d3:g:cbsAAOSwh3Rc1uqM
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-aus-Glas-Butterglocke-17x10-5x9-cm-BUTTERDOSE-Butter/322444984681?hash=item4b13380169:g:Xw4AAOSw3EVaV4l4
+
+blacklisted:['vierzehn Tage', '14 Tage', '1 Monat']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterbehalter-Edelstahl-Butterdose-Butterschachtel-Butterglocke-fur-Kuhlschrank/401763788492?hash=item5d8afce6cc:g:32MAAOSwBg5c0wuT
+
+blacklisted:['vierzehn Tage']
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Sala-Kakaobutter-Chips-Pastillen-Lebensmittelqualitat-konv-1000-g-1-kg/273078939364?hash=item3f94c5eee4:g:OrkAAOSw-XxajXA5
+
+blacklisted:['vierzehn Tage', '30 Tage', '14 Tage']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/BUTTERDOSE-Butterglocke-Butterschale-Butter-BUTTERAUFBEWAHRUNG-Kuchendose/263986728968?hash=item3d76d5d008:g:504AAOSwNwhcZYzx
+
+blacklisted:['vierzehn Tage', 'dreißig Tage']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Tupperware-Butterdose-Box-fur-Butter-Butterschatz/401763863479?hash=item5d8afe0bb7:g:JdwAAOSwtNdc0ylH
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-Kuh-Porzellan-Kaseglocke-Kasedose-Butterglocke-Box-Schale-mit-Deckel/372567521023?hash=item56bec136ff:g:UooAAOSw6~pcPJLG
+
+blacklisted:['vierzehn Tage', '14 Tage', '1 Monat']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/QUIST-Butterdose-3447-Cromargan-Edelstahl-Rostfrei-18-8-mit-Einsatz-NEU-OV/173898291285?hash=item287d255855:g:43AAAOSwVehc1FW4
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Kakaobutter-Chips-Pastillen-Lebensmittelqualitat-cacao-Butter-500-g/262976198999?hash=item3d3a9a5957:g:9eUAAOSwH09ZEel9
+
+blacklisted:['vierzehn Tage', 'ein Monat']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-innovative-Butterglocke-Butterschale-Wasserlagerung/312166407871?epid=26020579009&hash=item48ae915ebf:g:vWYAAOSwl99bKNS-
+
+blacklisted:['vierzehn Tage', '14 Tage']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Butterdose-aus-Porzellan-mit-Messer-Butterglocke-Butterschale-Dose-Holz/322214110058?hash=item4b0575236a:g:MOAAAOSwRjxb9GmZ
+
+blacklisted:['vierzehn Tage', '14 Tage', '1 Monat']
+
+mandatory:['mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+
+ +++ https://www.ebay.de/itm/Villeroy-Boch-French-Garden-Butterdose-nur-Teller/293085781707?hash=item443d461ecb:g:--MAAOSwJM9c2CQ~
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/12-79-kg-Sala-Sheabutter-Shea-Butter-raffiniert-naturlich-bio-1000-g-1-kg/362188194895?hash=item545419444f:g:64sAAOSwTelbmOXr
+
+blacklisted:['vierzehn Tage', '30 Tage', '14 Tage']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Sonstige.txt', 'mandatory ODR link.txt']
+
+

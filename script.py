@@ -77,11 +77,13 @@ def evaluate(url):
                     blacklisted_details.extend(check)
 
     for mandatory_path in get_files(path_mandatory):
+        print(mandatory_path)
         check = True
         for text in texts:
             if text:
                 get_text = text.get_text(separator=u" ")
-                check = check_mandatory(mandatory_path, get_text)
+                check = check and check_mandatory(mandatory_path, get_text)
+
         if check:
             mandatory.append(str(os.path.basename(mandatory_path)))
             mandatory_details.append(str(os.path.basename(mandatory_path)))
