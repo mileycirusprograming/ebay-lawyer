@@ -77,7 +77,6 @@ def evaluate(url):
                     blacklisted_details.extend(check)
 
     for mandatory_path in get_files(path_mandatory):
-        print(mandatory_path)
         check = True
         for text in texts:
             if text:
@@ -92,7 +91,7 @@ def evaluate(url):
 
 def search(query):
     results = []
-    url = "https://www.ebay.de/sch/i.html?_nkw=" + str(query)
+    url = "https://www.ebay.de/sch/i.html?_nkw=" + str(query) + "&LH_SellerType=2"
     id_listing = "sresult lvresult clearfix li"
     id_listing_shic = "sresult lvresult clearfix li shic"
     soup = get_html(url)

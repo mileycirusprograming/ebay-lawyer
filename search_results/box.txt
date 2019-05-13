@@ -47,11 +47,11 @@ blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
- +++ https://www.ebay.de/itm/4er-Set-Faltbox-Schwarz-32-x-32-cm-Faltkiste-Regalbox-Aufbewahrungsbox-Stoffbox/401654389805?hash=item5d84779c2d:g:jTIAAOSwuwNZivL0
+ +++ https://www.ebay.de/itm/Aufbewahrungsboxen-ClipBox-mit-Deckel-aus-Kunststoff-Kunststoffboxen-1-70L/192139049411?hash=item2cbc6139c3:m:mWWwUY9kWqQp9oyQWXjUiLw
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
-mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
  +++ https://www.ebay.de/itm/AVM-FRITZBox-7360-VDSL-DSL-VOIP-Modem-Gigabit-Router-2-Jahre-Gewahrleistung/252477757153?epid=109508491&hash=item3ac8d8d6e1:g:pG8AAOSwyXhZwAox
@@ -61,11 +61,11 @@ blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
- +++ https://www.ebay.de/itm/Aufbewahrungsboxen-ClipBox-mit-Deckel-aus-Kunststoff-Kunststoffboxen-1-70L/192139049411?hash=item2cbc6139c3:m:mWWwUY9kWqQp9oyQWXjUiLw
+ +++ https://www.ebay.de/itm/4er-Set-Faltbox-Schwarz-32-x-32-cm-Faltkiste-Regalbox-Aufbewahrungsbox-Stoffbox/401654389805?hash=item5d84779c2d:g:jTIAAOSwuwNZivL0
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
-mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
 
 
  +++ https://www.ebay.de/itm/4-x-IKEA-DRONA-Fach-Box-KALLAX-EXPEDIT-Aufbewahrungsbox-33x38x33cm-Kiste-4er-Set/183298288833?hash=item2aad6decc1:m:mZas_yXxMwJjDr1Cl7Ncw_Q
@@ -75,7 +75,42 @@ blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
+ +++ https://www.ebay.de/itm/Allzweckbox-Holzkisten-Aufbewahrungskisten-Mehrzweckkisten-Holz-natur-24-Grosen/123341576071?hash=item1cb7bb1787:m:mSBRY6kNs4_u003D1ZadXZg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory E-Mail.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Unterschriftenhinweis.txt']
+
+
  +++ https://www.ebay.de/itm/3x-Faltbox-Klappbox-3er-Set-Faltkiste-Aufbewahrung-32x32x32-cm-Regal-Stoff-Box/123690106857?hash=item1ccc813fe9:m:m0XPLc7FqYc4MbVs9qfhllg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-mit-Deckel-RETRO-Box-Kiste-Schachtel-15-und-47-L-aus-Karton/112572505047?hash=item1a35d81bd7:m:mo4Yq0mk5jGCkGVnJnoxbmw
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/24x-Aufbewahrungsbox-Stapelbox-Schuhbox-Schuhkarton-Box-Allzweckbox-Schublade/264083061473?hash=item3d7c93bae1:g:-8QAAOSw2xRYd02a
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/AVM-FRITZ-Box-7590-Dual-Band-WLAN-Router-MU-MIMO-Supervectoring-VDSL-wie-neu/323451043313?epid=2255299193&hash=item4b4f2f3df1:g:KVgAAOSwvytcBmLq
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Faltbox-33-x-33-x-33-cm-passend-fur-Ikea-Kallax-Expedit-Einschubkorb-Regal-box/122548551366?hash=item1c88767ec6:m:mbpjqr06CfdTCbjnwlNy0cg
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
@@ -96,7 +131,7 @@ blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
- +++ https://www.ebay.de/itm/Aufbewahrungsbox-mit-Deckel-RETRO-Box-Kiste-Schachtel-15-und-47-L-aus-Karton/112572505047?hash=item1a35d81bd7:m:mo4Yq0mk5jGCkGVnJnoxbmw
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-3er-Set-mit-Deckel-Stapelbox-Deko-Box-Pappe-Kiste-Karton-Blumen/303107453954?hash=item46929cb402:g:CMYAAOSwpLxcmR4w
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
@@ -110,7 +145,14 @@ blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
- +++ https://www.ebay.de/itm/Aufbewahrungsbox-3er-Set-mit-Deckel-Stapelbox-Deko-Box-Pappe-Kiste-Karton-Blumen/303107453954?hash=item46929cb402:g:CMYAAOSwpLxcmR4w
+ +++ https://www.ebay.de/itm/4x-UNTERBETTKOMMODE-SCHWARZ-Reisverschluss-Unterbett-Box-Kommode-Folie-Set/112311144529?hash=item1a26441051:m:mwiqVTa1sfCvdDgfiE6h8Jg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-Lagerbox-Box-mit-Deckel-Stapelbox-Kunststoff-Kunststoffbox/382798588487?hash=item592092ea47:m:meiz7AaJYmLC8pXzG5PRVJQ
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
@@ -124,14 +166,14 @@ blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
- +++ https://www.ebay.de/itm/Faltbox-33-x-33-x-33-cm-passend-fur-Ikea-Kallax-Expedit-Einschubkorb-Regal-box/122548551366?hash=item1c88767ec6:m:mbpjqr06CfdTCbjnwlNy0cg
+ +++ https://www.ebay.de/itm/Klarsichtbox-verschiedene-Sets-transparent-Aufbewahrungsbox-Box-Allzweckbox/381232527893?hash=item58c33aba15:m:mOeyE6wu57Lh5wBFH0HgIpg
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
- +++ https://www.ebay.de/itm/VCM-10er-Set-Faltbox-Klappbox-Sammelbox-Stoffbox-Regalbox-Regalkorb-Boxas/183468808478?hash=item2ab797d91e:m:m5dfwUjauXDuosiJF_VUUYg
+ +++ https://www.ebay.de/itm/3-Stk-Heidrun-Clipbox-Deckel-25-Liter-44x32x23cm-Aufbewahrungsbox-Stapelkiste/232404387817?epid=25030999992&hash=item361c6187e9:g:UuEAAOSwytJaL-CX
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
@@ -145,23 +187,163 @@ blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
- +++ https://www.ebay.de/itm/Allzweckbox-Holzkisten-Aufbewahrungskisten-Mehrzweckkisten-Holz-natur-24-Grosen/123341576071?hash=item1cb7bb1787:m:mSBRY6kNs4_u003D1ZadXZg
+ +++ https://www.ebay.de/itm/Faltbox-28-x-28-x-28-cm-Aufbewahrungsbox-Spielzeugkiste-Kiste-Faltschachtel-Korb/122457151475?hash=item1c8303d7f3:m:mBXP0HRz3kEawEZsHBCbwSw
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/VCM-10er-Set-Faltbox-Klappbox-Sammelbox-Stoffbox-Regalbox-Regalkorb-Boxas/183468808478?hash=item2ab797d91e:m:m5dfwUjauXDuosiJF_VUUYg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-Lagerbox-Box-mit-Deckel-Tragegriff-Stapelbox-LEBENSMITTELECHT/163370037863?hash=item26099cf267:m:mrqeG_BxgUau6X7qT1jBoUQ
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Faltbox-30-x-30-x-30-cm-Aufbewahrungsbox-Spielzeugkiste-Kiste-Faltschachtel-Korb/122724629287?hash=item1c92f53b27:m:mJIbOHWESPNAr4-Q8rPCfNg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Zeller-Ordnungsbox-Bamboo-Aufbewahrungsbox-Box-Kiste-Holz-offen-stapelbar-Bambus/122038698414?epid=10025560166&hash=item1c6a12c1ae:m:mn1Z76m38eGQq9L25IzZAKg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Faltbox-Aufbewahrungsboxen-Deckel-Korb-Einschubkorb-Faltboxen-Kinder-Box-Boxen/112250841568?hash=item1a22abe9e0:m:mxQZPLqAm7avRICtsIdCS_g
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Auflagenbox-Kunststoff-Truhe-Box-Kissenbox-310L-Geratetruhe-Kiste-Gartentruhe/262755302004?hash=item3d2d6fba74:m:mHDpOqf7jGqZ65A87jCb5Vw
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Unterbettkommode-Unterbettbox-Aufbewahrung-Box-atmungsaktiv-103x45x16cm/263724613444?hash=item3d67363f44:m:m6s3_UYl9Z_702VQyeUr55g
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/XL-Aufbewahrungsbox-Box-Kunststoffbox-Waschebox-Lagerbox-Regalbox-Deckel/272963414816?hash=item3f8de32b20:m:mU0CLo1uSWIqWw-QF7lAq_A
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Rosegold-Griff-Luxus-Faltbox-passend-fur-IKEA-Kallax-Regal-Faltbox-Aufbewahrung/123718530570?hash=item1cce32f60a:m:m3qNzDEXukIcCDcyEHHzbsg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Allzweckkiste-kiefer-mit-Deckel-Holzkiste-Aufbewahrung-Holzbox-Kiste-Ordnung/321607006030?hash=item4ae145774e:m:mGPHD0JDi_Fz4YDDQaBCV8A
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/3-Stapelboxen-Set-Kunststoffbox-Aufbewahrungsbox-Lagerbox-Regalbox-Kiste-Deckel/321532334331?hash=item4adcd210fb:g:soMAAOSw1m9austk
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt', 'blacklist trusted shops.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/6-12x-Schuhbox-Set-stapelbar-Aufbewahrungsbox-Kunststoffbox-Schuhkarton-Schublad/163597511724?hash=item26172bec2c:m:mb9mtaP3VrDz2DXtf0lMfcg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/HOLZBOX-mit-Deckel-HOLZKISTE-HOLZ-SCHATULLE-AUFBEWAHRUNGSBOX-Geschenkbox-f-Wein/201628044960?hash=item2ef1f7cea0:m:mYKyEImElZn6fz984aRHduw
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/NanoBox-Aufbewahrungsbehalter-Stapelbox-Allzweckbox-Kunstoffbox-antibakteriell/372349247442?hash=item56b1be9fd2:m:mLBbGajOtj1m7I-eHfkpznw
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-Faltbox-Faltkiste-Regalkorb-Regalkiste-Staubox-Korb-Organizer/292925016103?hash=item4433b10827:m:mKNUDynODF31-22gdXcygrg
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/VICCO-4er-Set-Faltbox-30x30-cm-weis-Faltkiste-Aufbewahrungsbox-Regalbox-Box/362543299718?hash=item546943bc86:g:rAYAAOSwXINcU~BX
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/12er-Schuhboxen-Schuhaufbewahrung-mit-Deckel-stapelbar-kunststoffbox-LSP12WT/332580593818?hash=item4d6f59209a:g:RGAAAOSwTA1as0r4
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/XXL-Dekokarton-Geschenkkarton-Karton-Box-Stapelbox-Lagerbox-Kiste-40-Liter-TOP/282751008866?hash=item41d5460062:m:mtKbEdjjDSm8c_lXbYOzQUA
+
+blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-6er-Set-Schuhbox-mit-Deckel-Stapelbar-Kunststoffbox-Plastikbox/192739213423?hash=item2ce027006f:g:mVQAAOSwHGFctGiM
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
 mandatory:['mandatory E-Mail.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Unterschriftenhinweis.txt']
 
 
- +++ https://www.ebay.de/itm/AVM-FRITZ-Box-7590-Dual-Band-WLAN-Router-MU-MIMO-Supervectoring-VDSL-wie-neu/323451043313?epid=2255299193&hash=item4b4f2f3df1:g:KVgAAOSwvytcBmLq
+ +++ https://www.ebay.de/itm/Stapelboxen-8-4-57-6l-Aufbewahrungsbox-Lagerbox-Holzkiste-mit-ohne-Deckel/223231822203?hash=item33f9a7497b:m:mvolu90r0JuT9DrD4JKQnGw
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
 
-mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory ODR link.txt', 'mandatory Sonstige.txt', 'mandatory Sprache.txt']
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
 
- +++ https://www.ebay.de/itm/4x-UNTERBETTKOMMODE-SCHWARZ-Reisverschluss-Unterbett-Box-Kommode-Folie-Set/112311144529?hash=item1a26441051:m:mwiqVTa1sfCvdDgfiE6h8Jg
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-mit-Deckel-WOOD-Box-Kiste-Schachtel-15-und-47-L-aus-Karton/112573534429?hash=item1a35e7d0dd:m:mj7caAIwYKsbFCiukqJRP9A
 
 blacklisted:['blacklist widersprüchliche Widerrufsfristen.txt']
+
+mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
+
+
+ +++ https://www.ebay.de/itm/Aufbewahrungsbox-Gartenkissenbox-Auflagenbox-Kissenbox-Truhe-Gartentruhe-Woody/273834556397?epid=26031011254&hash=item3fc1cfbbed:g:3eUAAOSwybdcz0i5
+
+blacklisted:[]
 
 mandatory:['mandatory ODR link.txt', 'mandatory Sonstige.txt']
 
