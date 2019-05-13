@@ -64,6 +64,7 @@ def evaluate(url):
     agb = soup.find("textarea", {"id": "bsiTermsConditions"})#.get_text(separator=u" ")
     widerrufsb = soup.find("div", {"class": "bsf-rt-pad rpDetails"})#.get_text(separator=u" ")
 
+
     texts = [rechtl, agb, widerrufsb]
 
     for blacklist_path in get_files(path_blacklist):
@@ -76,13 +77,14 @@ def evaluate(url):
                     blacklisted_details.extend(check)
 
     for mandatory_path in get_files(path_mandatory):
+        check = True
         for text in texts:
             if text:
                 get_text = text.get_text(separator=u" ")
                 check = check_mandatory(mandatory_path, get_text)
-                if check:
-                    mandatory.append(str(os.path.basename(mandatory_path)))
-                    mandatory_details.append(str(os.path.basename(mandatory_path)))
+        if check:
+            mandatory.append(str(os.path.basename(mandatory_path)))
+            mandatory_details.append(str(os.path.basename(mandatory_path)))
 
     return sorted(dict.fromkeys(blacklisted), reverse=True), sorted(dict.fromkeys(blacklisted_details), reverse=True), sorted(dict.fromkeys(mandatory)), sorted(dict.fromkeys(mandatory_details), reverse=True)
 
