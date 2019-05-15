@@ -1,0 +1,133 @@
+ +++ https://www.ebay.de/itm/Univer-Paprikacreme-Gulaschcreme-Knoblauchcreme-Zwiebelcreme-160-g/252425801698?hash=item3ac5c00fe2:m:mjR0oX_3vScqlmgExaBZO2Q
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/1kg-Knoblauch-Pulver-fein-gemahlen-Knoblauchpulver-1A-Qualitat-Premium-Serie/323231971230?hash=item4b4220779e:g:zVwAAOSwIs5a63eh
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/SCHNITTKNOBLAUCH-100-Samen-Knoblauch-Krauter-Gewurz-Garten-gesund-Krautersamen/173324349380?hash=item285aefafc4:g:QAwAAOSws-ta~uSG
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/1kg-Knoblauch-Granulat-G2-Knoblauchgranulat-Gourmet-1A-Qualitat-Premium-Serie/323209263094?hash=item4b40c5f7f6:g:YyoAAOSwE2da0wnw
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Knoblauchpresse-mit-herausnehmbaren-Einsatz-aus-EDELSTAHL-16cm-GE/183761264086?hash=item2ac9065dd6:g:020AAOSw3GBcpfcN
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Univer-Paprikacreme-Gulaschcreme-Knoblauchcreme-160gr/360527965705?hash=item53f1242e09:g:H8gAAMXQnXFRZq9b
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Knoblauchgranulat-110g-OHNE-ZUSATZSTOFFE-Gewurze-Gutermann/173865409759?hash=item287b2f9cdf:g:YLUAAOSwwG9ZoXln
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Knoblauchpulver-250g-Knoblauch-Pulver-fein-gemahlen-AZX725-Top-Premium-Qualitat/131112652934?hash=item1e86ec5086:g:q44AAOSwQGhbJs8u
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Knoblauchpulver-gemahlen-1-kg-1000-g/322869463272?hash=item4b2c8508e8:g:7ZoAAOSwKQ9aAfp7
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Schnittknoblauch-Samen-Schnittlauch-mit-Knoblauchgeschmack-Allium/401665513539?hash=item5d85215843:g:PagAAOSw9g1cHAJn
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Knoblauchgranulat-1-kg-1-A-Spitzenqualitat/322047329867?hash=item4afb84464b:g:F90AAOSwvFZW8Aoy
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Knoblauchpulver-500g-Knoblauch-Pulver-fein-gemahlen-AZX725-Top-Premium-Qualitat/111045327718?hash=item19dad13b66:g:fwcAAOSw~U5bJs8r
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/IKEA-Knoblauchpresse-KONCIS-Edelstahl-herausnehmbarer-Einsatz/223194492836?epid=2256193676&hash=item33f76dafa4:g:Lq4AAOSwTfdbLVaJ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Knoblauch-1Kg-Granulat-G1-fein-saubere-frisch-Ware-1000g-AZX877-Premium-Qualitat/111600430719?hash=item19fbe76e7f:g:WeQAAOSwW6RcmNiK
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/White-Garlic-Weiser-Pflanz-Knoblauch-Pflanzgut/173849987396?hash=item287a444944:g:z7IAAOSwtLRcmJb5
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/500g-Knoblauch-Granulat-G2-Knoblauchgranulat-Gourmet-1A-Qualitat-Premium-Serie/222924527455?hash=item33e756575f:g:XDEAAOSwWfda0wn2
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Knoblauch-Granulat-G1-500g-feine-saubere-A-Streuware-AZX877-Premium-Qualitat-TOP/131431452349?hash=item1e99eccebd:g:xg0AAOSwECtcmNj7
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/180-Knoblauch-Kapseln-von-Sanct-Bernhard-1-Dose/141382561414?epid=1648149684&hash=item20eb0eae86:g:BxAAAOSwtJBbBZmf
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Zwiebelschneider-und-Gemuseschneider-Mini-Genius-Grun-Knoblauchschneider-1-Stuck/303153059517?hash=item46955496bd:g:zlkAAOSw589c2UmW
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
