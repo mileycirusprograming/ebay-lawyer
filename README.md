@@ -7,6 +7,9 @@
 * Unpack **shop-crawler-master.zip**
 * Execute **install.bat** (Install Python)
 
+  (**install32.bat** for 32 Bit Windows)
+ * Check **Add Python 3.7 to PATH** during Python installation
+
 
 ### Running the application
 
