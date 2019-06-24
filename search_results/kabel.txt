@@ -1,0 +1,896 @@
+ +++ https://www.ebay.de/itm/NYM-J-3x1-5-3x2-5-5x1-5-5x2-5-mm-Mantelleitung-Elektroleitung-Kabel-10-100-Mtr/233040981888?hash=item3642532f80:m:muB7Bi5kwyCcRBBAH7Yjsdw
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/Meterware-Stromkabel-Batteriekabel-Kabel-Litze-6-10-16-25-35-50-mm-Leitung/311748695107?hash=item4895ab9443:m:mM2D1QMAhDC0Dypka9R79gA
+
+blacklisted:[]
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/NYMJ-3x1-5-3x2-5-3x4-5x1-5-5x2-5-5x4-5x6-Stromkabel-Mantelleitung-Feuchtraum-VDE/162899238475?hash=item25ed8d1e4b:m:m4iloGJ_8isWKQ-re14E-pQ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Premium-Textilkabel-100-Baumwolle-2-3-adrig-Lampenkabel-Stoffkabel-Meterware/283285603081?hash=item41f5234309:m:mEXCiJ1rtgxL88RsI5-BZhA
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Batteriekabel-Stromkabel-Fahrzeugleitung-6-10-16-25-35-50-70-95-mm-Kabel-per-m/282613273901?hash=item41cd10552d:m:mdBWLMIEkI3_h4h-kFIofwg
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/flexible-Aderleitung-H05V-K-H07V-K-Verdrahtungsleitung-0-5-bis-95-mm-div-Farben/272807919542?hash=item3f849e7fb6:m:mzy_cxfhvfr49rWbBwf7O-A
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Anschlusskabel-Winkelkupplung-Schukosteckdose-1-5m-3x2-5mm-CEE-Wohnwagen-IP44/283479278465?hash=item4200ae8381:g:dSwAAOSwt0pc7Avj
+
+blacklisted:[]
+
+mandatory:['mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Verlangerungskabel-10m-20m-30m-50m-Verlangerung-Stromkabel-Garten-Kabel-SCHUKO/162281679725?hash=item25c8bdeb6d:m:m6BJka5TlMeGECHBXhXwbzA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/EUROVERLANGERUNG-WEISS-SCHWARZ-VERSCHIEDENE-2m-3m-5m-EURO-EUROPAVERLANGERUNG/231835439143?hash=item35fa781027:m:mlWU6mJRft1StwCcO4JQUkA
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/SCHUKO-VERLANGERUNG-VERLANGERUNGSKABEL-1m-bis-25m-WEISS-REINWEISS-STECKER-KABEL/332201827823?hash=item4d58c59def:m:mEgzUTwrPmqakS0aBJsgVIg
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/2m-schwarz-Euro-Verlangerung-Stromkabel-Stecker-Verlangerungs-Kabel-Kupplung-2-0/332217998605?epid=1206239934&hash=item4d59bc5d0d:g:pjcAAOSw8lpZFc5g
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/2-Adapter-CEE-Schuko-Anschlusskabel-Wohnwagen-230V-16A-0-4-m-3x2-5mm-CE-Zeiche/382022912134?hash=item58f2570886:g:iekAAOSwtXBatNl1
+
+blacklisted:[]
+
+mandatory:['mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/SCHLAUCHLEITUNG-2x075-3x0-75-4x0-75-3x1-5-H03VVH2-F-H03VV-F-H05V-KABEL-LEITUNGEN/231842613213?hash=item35fae587dd:m:mukXU5i7GPNBJtPddqvpA9g
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Verlangerungskabel-20m-Schuko-Stromkabel-Verlangerung-fur-Garten-H05VV-F-3G1-5/112288806245?hash=item1a24ef3565:g:efoAAOSwYihc3VZr
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Batteriekabel-Stromkabel-6-bis-50-mm-Kabel-Starterkabel-KFZ-Kabel-per-m/272811530753?hash=item3f84d59a01:m:mRwdJGCQVfBSTHMUY4Y0vpQ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-Starkstromkabel-NYY-J-5x1-5-mm-Elektroleitung-Stromleitung-VDE-50-M/161866586063?hash=item25b00017cf:g:~OMAAOSwPfhbhnyY
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-NYY-J-5x10-mm-schwarz-1m-Meterware-5x10-qmm-jede-Menge-in-einer-Lange/310484901377?hash=item484a579e01:g:Xc0AAOSwxCxT15Zr
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Batteriekabel-H07V-K-6mm-bis-70mm-rot-schwarz-Stromkabel-Meterware/302738205212?hash=item467c9a6a1c:m:mFbAcHaJGCDgtHyMMRwF_fw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/NYY-J-5x6-mm-Erdkabel-schwarz-1m-Meterware-5x6-qmm-Bestellmenge-ist-Lieferlange/163614086444?epid=1404251489&hash=item261828d52c:g:TpYAAOSwbqpT2c86
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/H03VV-F-PVC-Leitung-Schlauchleitung-flexibles-Kabel-Stromkabel-Ringe-50-100-m/282614055462?hash=item41cd1c4226:m:mgNnQVPnEvCkTt4aYSJxdGQ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/2m-weis-Euro-Gerate-Verlangerung-Stromkabel-Stecker-Verlangerungs-Kabel-Kupplung/332217981470?hash=item4d59bc1a1e:g:zeYAAOSw5cNYh2l8
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-NYY-J-5x16-mm-schwarz-1m-Meterware-5x16-qmm-jede-Menge-in-einer-Lange/310488111173?hash=item484a889845:g:ytAAAOSwcu5UMYMt
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Flache-Installationsleitung-Kabel-3-x-1-5-mm-YDYp-flach-weis-16A/132540073702?hash=item1edc0106e6:m:mGYmmfKkJPrTwZPLt_JOO1A
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/NYM-J-5x16mm-Meterware-Mantelleitung-grau-Installationsleitung-Feuchtraumkabel/161343907313?epid=1504254781&hash=item2590d8a5f1:g:oogAAOSwbqpT0i6k
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-N2XY-J-3x1-5-3x2-5-5x1-5-5x2-5-5x6-5x4-Ersatz-fur-NYY-J/162674804507?hash=item25e02c871b:m:mTCp9JYvi1xuJP0It39gmAA
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/NYM-J-5x6-mm-Mantelleitung-Meterware-grau-Installationsleitung-Feuchtraumkabel/161341256496?epid=6031009151&hash=item2590b03330:g:A0gAAOSwxCxT0i6U
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Stromkabel-Euro-Netzkabel-EU-Stecker-1-5m-3m-2-PIN-C7-PC-Strom-Anschluss-Kabel/303069479780?epid=1862314667&hash=item4690594364:m:mhNyRmv8ZFwCEdLv7Lh3a_g
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabelmuffe-IP68-wasserdicht-3-polig-Kabel-Verbinder-fur-Erdkabel-Leitungen-Muffe/333224936658?hash=item4d95c104d2:m:mkMD7B04yQe0b-dfmG2-kug
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/NYM-Installationskabel-Mantelleitung-NYM-J-5x1-5mm-grau-Menge-wahlbar/232956429701?hash=item363d490585:m:m-DoEFIdnj_GdtKflwTXu-g
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/CAT-5e-Netzwerkkabel-Patchkabel-Verlangerung-Buchse-F-UTP-LAN-DSL-RJ45-0-5m-15m/322595169387?epid=15005514021&hash=item4b1c2ba46b:m:mrH9KnDA0hFTCaWM7yio3lg
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/flexible-Aderleitung-Litze-Verdrahtungsleitung-LIYV-H05V-K-H07V-K-0-14-35-mm/273039280781?hash=item3f9268ca8d:m:mMEQ431CH30es5eTbYJoC4A
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/TESA-Gewebeband-9-15-19-25-38-50-mm-15m-25m-Auto-Kabelbaum-Baumwolle-Klebeband/352133578017?hash=item51fccbfd21:m:mateMmtdxHmX0_cspv2iXVA
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/IP67-Wasserdicht-Kabelverbinder-Muffe-Erdkabel-Boden-ausen-3-polig-2-polig-500V/182706962654?hash=item2a8a2f00de:m:mUFUQJABLI2dadX-1prGvyg
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-NYY-J-1x10-1x16-1x35-3x1-5-3x2-5-4x1-5-5x1-5-5x2-5-5x4-5x6-5x10-VDE/162660868407?hash=item25df57e137:m:mXzG79PrMtFueKYBv5nZSKQ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Verlangerungskabel-10m-Verlangerung-Stromkabel-Garten-Kabel-SCHUKO-IP44-V29/332247120746?hash=item4d5b78bb6a:g:yb0AAOSwaEhZL~zE
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/0-70-m-Erdkabel-NYY-J-3-x-1-5-mm-50m-Ring-Starkstromkabel/173913816745?hash=item287e123ea9:g:9AUAAOSwzc1bx22M
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Anschrift.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsfrist.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/3m-2-9m-WEISS-EURO-NETZKABEL-230V-EUROSTECKER-KINDERSICHERUNG-EUROVERLANGERUNG/332783716243?epid=1923418964&hash=item4d7b748793:g:D3EAAOSwepJXaUij
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Anschlussleitung-Netzkabel-Zuleitung-Euro-Stecker-Stromkabel-2-polig-und-3-polig/113676835929?hash=item1a77aadc59:m:me41GFQICZ8HHZv2Jg6W5IQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/LiYz-Kabel-0-25mm-Rot-Schwarz-Zwillingslitze-2-adrig-lange-1m-10m-20m-25m-50m/292755444828?hash=item442995945c:m:meAvFXGiftP5a6ihDMl_4Mg
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Echtes-Textilkabel-Made-in-Germany-100-Baumwolle-3-4-adrig-Meterware/283409853995?hash=item41fc8b2e2b:m:mY20xJuCdLdRusgYxA7OkXQ
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Verlangerungskabel-25m-Stromkabel-Schuko-Verlangerung-Haus-Garten-H05VV-F-3G1-5/122910699652?hash=item1c9e0c7084:g:qeIAAOSw6Jxa-u7g
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-Starkstromkabel-NYY-J-3x2-5-mm-Elektroleitung-Stromleitung-VDE-50-M/161866546641?hash=item25afff7dd1:g:rUMAAOSwkZhbhoe2
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-Starkstromkabel-NYY-J-3x1-5-mm-Elektroleitung-Stromleitung-VDE-50-M/161866546106?hash=item25afff7bba:g:~vAAAOSwuTxbhnx9
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/NYM-J-5x10mm-Mantelleitung-Meterware-grau-Installationsleitung-Feuchtraumkabel/161445312110?epid=1739211269&hash=item2596e3f66e:g:btUAAOSw7NNUGpPs
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Fahrzeugleitung-Kabel-Leitung-KFZ-Litze-Auto-Flry-Fahrzeugkabel-Meterware-FLK/282143917030?hash=item41b11683e6:m:mUMZ-7aguQk6VvcPOdHo1fQ
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Batteriekabel-Kupferkabel-flexibel-H07V-K-4-6-10-16-25-35-50-70-95-mm/283225700069?hash=item41f19136e5:m:mO-nDI33AMbsKCR7agsB-Eg
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/LiYz-0-14mm-Kabel-Zwillingslitze-2-adrig-Drillingslitze-3-adrig-zur-Auswahl/292024270882?hash=item43fe00c022:m:mke-ALDVrfXZl83KbLuzUrA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/toolcity-Lautsprecherkabel-Zwillingslitze-2x0-75mm-Boxenkabel-100m-Rot-Schwarz/332785002514?hash=item4d7b882812:g:CWIAAOSwttlbh6en
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/50m-Zwillingslitze-2x-1-5mm-Lautsprecherkabel-Boxenkabel-rot-schwarz-2-adrig/232778383569?hash=item3632ac40d1:g:HBwAAOSwLVZVzz6x
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Verlangerungskabel-30m-Verlangerung-SCHUKO-IP44-Stromkabel-Garten-Kabel-V13/332247115992?hash=item4d5b78a8d8:g:pDEAAOSwlY1ZL~ya
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Fahrzeugleitung-Auto-FLRY-KFZ-Kabel-Leitung-Litze-0-5mm-2-5mm-FLK-Meterware/283437053711?hash=item41fe2a370f:m:mUMZ-7aguQk6VvcPOdHo1fQ
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-NYY-J-1x16-mm-schwarz-Erdungskabel-Blitzschutz-grun-gelb-Schnittlangen/160988694802?epid=1655783143&hash=item257bac8912:g:~5IAAOSwxCxT2oJ8
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Strom-Verlangerungs-Kabel-230V-Panzerleitung-3G1-5-IP-44-Aussen-5m-bis-50m/261380642500?epid=1704205212&hash=item3cdb8016c4:m:mK4Iv3CsZjbXb1iALH3uGwg
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/EUROVERLANGERUNG-2m-WEISS-mit-KINDERSICHERUNG-EUROSTECKER-EUROKUPPLUNG-KABEL/332101963119?hash=item4d52d1cd6f:g:zeYAAOSw5cNYh2l8
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/IP68-Wasserdicht-Kabelverbinder-Muffe-Erdkabel-Boden-ausen-3-polig-2-polig-500V/172848012629?hash=item283e8b5d55:m:mIRfnxwya7fYmu0lxOvj5Kg
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/Kabelverbinder-3-polig-Wasserdicht-Verbindungsdose-T-Connecotor-Dosenmuffe-Form/311928220614?hash=item48a05eebc6:m:meoTDNuf57xudrsznSFkIzw
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Fahrzeugleitung-Kabel-Leitung-KFZ-Litze-Auto-Flry-Fahrzeugkabel-Meterware-FLK/282143917030?hash=item41b11683e6:m:mUMZ-7aguQk6VvcPOdHo1fQ
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Kabeltrommel-Verlangerungskabel-Baustelle-Kabel-50-m-H05RR-F-3G1-5-3x1-5-IP44/372301162391?hash=item56aee0e797:g:QQ8AAOSwrrhcmklA
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/PUR-ANSCHLUSSLEITUNG-MASCHINENKABEL-ANSCHLUSSKABEL-3m-5m-HOCHSTE-BEANSPRUCHUNG/332929027653?epid=1406412199&hash=item4d841dce45:m:mrciK8FVSz8V_MO9khAbtgg
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Gummikabel-H07RN-F-Baustellenkabel-Ausenkabel-METERWARE/172659801526?hash=item2833537db6:m:mB89uZcurCrX1e50T_1hROA
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Brennenstuhl-Qualitat-Verlangerungskabel-mit-Winkel-Flachstecker-Kinderschutz-2M/372686805191?hash=item56c5dd58c7:g:v3UAAOSwFbFc~RRT
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Anschrift.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsfrist.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/2m-HDMI-Kabel-Weis-HDMI-2-0-kompatibel-4KUHD-2160p-FULLHD-1080p-3D-ARC-HDR/264346599508?hash=item3d8c490054:g:07EAAOSw6TtdC~cY
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Anschrift.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsfrist.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/0-08-Stk-100x-Edelstahl-Kabelbinder-Metallkabelbinder-Kabel-Binder-Set-30/202512272364?hash=item2f26ac0bec:g:6~0AAOSwf95cUX~-
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/2m-HDMI-Kabel-Weis-HDMI-2-0-kompatibel-4KUHD-2160p-FULLHD-1080p-3D-ARC-HDR/264346599508?hash=item3d8c490054:g:07EAAOSw6TtdC~cY
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Anschrift.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsfrist.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/100m-Sat-TV-Koaxialkabel-135-Megasat-5-fach-geschirmt-4K-Full-HD-3D-Abisolierer/401277273156?epid=1238221195&hash=item5d6dfd4444:g:uVgAAOSwyI5ZoDnQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Silikonkabel-Olflex-Silikonlitze-Gelb-Blau-Rot-Schwarz-0-5-1-00mm-Meterware/362636160064?hash=item546eccac40:m:mYa9GqRvYz_aCl5qLNsMwVg
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt']
+
+
+ +++ https://www.ebay.de/itm/10m-Erdungskabel-4mm-Grun-Gelb-feindrahtig-H07V-K-Profi-Line/323780665108?hash=item4b62d4df14:g:5IoAAOSwnlFaX9To
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Elektro-Vergussmasse-Epoxid-Giesharz-Elektronik-glasklar-Kabel-IP68-300g-6kg/362476963596?hash=item54654f870c:m:m7iQ9KEU0WF7pYaVdteRSxQ
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt']
+
+
+ +++ https://www.ebay.de/itm/Flexible-Stranded-Silikon-Rubber-Wire-Kabel-28-26-24-22-20-18-16-14-12-10-8AWG-H/163566156624?hash=item26154d7b50:m:mdJnEf1LjYr0ziVdaTPuIOg
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Batteriekabel-Starterkabel-Anlasserkabel-hochflexibel-6-50-mm-rot-sw-per-m/282975217870?hash=item41e2a328ce:m:mgk5OQC7kc6UkP1aN8aJ3Lw
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Automatik-Kabeltrommel-Kabelbox-Kabelaufroller-Verlangerungskabel-Kabel-10m/372268551848?hash=item56acef4ea8:g:iGYAAOSwp~VcmkTr
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Verlangerungskabel-1-5m-3m-5m-10m-Eurostecker-Kabel-Verlangerung-Stromkabel-IP20/113666017297?hash=item1a7705c811:m:mzsAXxgz0jBIUVgqMI2fN8w
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/2m-AUX-Kabel-3-5mm-Klinke-Stecker-Klinkekabel-Handy-MP3-iPhone-TV-PC-Auto/183581811267?hash=item2abe542243:g:aC4AAOSwdC5cYEBw
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/NYM-J-5x4-mm-Mantelleitung-Meterware-grau-Installationsleitung-Feuchtraumkabel/310985414786?epid=1705231531&hash=item48682cd882:g:AMcAAOSwxCxT0i52
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabeltrommel-40m-Robust-XL-mit-4-Schutzkontakt-Steckdosen/382970347853?epid=2254377315&hash=item592acfc14d:g:HNUAAOSwH1pb~WK~
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Anschrift.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsfrist.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/Batteriekabel-Stromkabel-6-bis-50-mm-Kabel-Starterkabel-KFZ-Kabel-Meterware/283444215396?hash=item41fe977e64:m:mZqrE8hTQhPq3E39vFmCLmQ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/FFC-A-B-4Pin-1-0Pitch-Flachbandkabel-Cable-8cm-15cm-30cm-40cm-50cm-100cm-1m/273543221858?hash=item3fb0725262:m:mUp3zU77U6LcwB4J8StLhSQ
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Silikonkabel-SIF-Batteriekabel-rot-sw-1-5-25-mm-Silikonlitzen/272810809055?hash=item3f84ca96df:m:madNePpaTvgIIGkesDUOs5Q
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabel-transparent-Lampen-Leuchten-Schlauchleitung-2-x-0-75mm-rund/252334673074?hash=item3ac0518cb2:g:ujIAAOSwGYVW-BdZ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Anschrift.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsfrist.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/Winkel-Stromkabel-Netzkabel-PC-Kaltgerat-Stecker-EU-Schuko-1-5m-3m-5m-3-PIN/303069479765?hash=item4690594355:m:muGrjSHmfb7BmOIBsg6_grw
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/2m-Klinke-Cinch-AUX-Audio-Kabel-3-5mm-Klinkenstecker-auf-2-Chinch-RCA-Stecker/321671111024?epid=1937121037&hash=item4ae517a170:g:Nb0AAOSwSP9bbwbA
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabelwickler-Kabelaufwickler-Kabelmanager-Strick-Wickler-Kabelaufroller/133012906111?hash=item1ef82fe07f:m:mAZWwARnQet2kwATqssQxng
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/LED-SMD-Vergussmasse-Giesharz-Flussigkeiten-Elektro-Elektronik-Kabel/172990743574?hash=item28470d4416:m:mkSNw5WoGGEegmWLuvR7ZVg
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/100m-0-28-m-CAT6-Netzwerkkabel-Verlegekabel-SFTP-Schirmung-PIMF-Gigabit-LAN-DSL/321492541328?hash=item4ada72df90:g:zI8AAOSwi8dbbwDF
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/HERDANSCHLUSSKABEL-1-0m-bis-50-0m-HERDKABEL-HERDLEITUNG-1-50m-ANSCHLUSSLEITUNG/232198112919?hash=item3610160697:m:mHFdH_q2_hoOYZX1DarmPug
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Stromkabel-Batteriekabel-H07V-K-6mm-bis-70mm-rot-schwarz-Meterware/302747377221?hash=item467d265e45:m:m1UKrmnK4n40etEwYL1tfFA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/1-5m-High-End-Cinch-Chinch-RCA-Kabel-mit-Zugentlastung-vergoldete-Metall-Stecker/321992702374?hash=item4af842b9a6:g:qsIAAOSwxQpbbv09
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/CAT6a-Patchkabel-Flachkabel-500MHz-U-UTP-Ethernet-Netzwerk-DSL-LAN-0-5m-bis-20m/323113329618?epid=2255942161&hash=item4b3b0e23d2:m:mZH3p4SkN5sDGEzcLr32Law
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/FFC-A-12Pin-0-5Pitch-30cm-dv9000-dv6000-Schuberth-SRC-Flat-Cable-Flachbandkabel/271869430971?hash=item3f4cae4cbb:g:O-kAAOSwHmhV8t7a
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Coroplast-kfz-Gewebeband-mit-Vlies-8551-19mm-x-25m-Klebeband-Tape-Band-MwSt-neu/322237721885?epid=22027891502&hash=item4b06dd6d1d:g:5dQAAOSwdzVXvDOn
+
+blacklisted:[]
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/10m-Sat-Koax-kabel-Digital-TV-135dB-F-Stecker-VERGOLDET-Antennenkabel-ULTRA-HD/371974928904?epid=1839559013&hash=item569b6efa08:g:GeYAAOSwKrhVeZYm
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/H05VV-F-PVC-Leitung-Schlauchleitung-flexibles-Kabel-Stromkabel-Ring-100-50-m/272849822469?hash=item3f871de305:m:mIe9fQ7ei0WfZRfbMwk8QyA
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/100x-Nagelschellen-Rundschellen-Kabelschellen-Nagelclip-8mm-Koaxialkabel-Kabel/400522963185?hash=item5d410768f1:g:v7oAAOSwDNdVnTqU
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Verlangerungskabel-verlangerungs-kabel-strom-1-5m-3m-5m-10m-Euro-stecker-IP20/123666283185?hash=item1ccb15bab1:m:mMcFBCn6l_TMg4Nn5zGQAmQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/10m-Zwillingslitze-2x2-5mm-ROT-SCHWARZ-Lautsprecherkabel-Kabel-Litze/232778383595?hash=item3632ac40eb:g:CbUAAOSwOVpXdkeE
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/CEE-Verlangerungskabel-Starkstrom-H07RN-F-16A-5x1-5-5G1-5mm-5-10-15-20-25-30-m/372237122083?hash=item56ab0fba23:m:mEQ4iFq-rBu_e8tZGz8tagw
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Adapterkabel-Lightning-auf-Kopfhorer-Audio-Bluetooth-AUX-fur-iPhone-8-X-XR-Xs/223485230128?hash=item3408c1fc30:g:lQIAAOSwBpZctvAC
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabel-transparent-Lampen-Leuchten-Schlauchleitung-2-x-0-75mm-rund/252334673074?hash=item3ac0518cb2:g:ujIAAOSwGYVW-BdZ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Anschrift.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsfrist.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/Kabelschuhe-Rohrkabelschuhe-Ringosen-10-16-25-35-50-70-95-120-qmm-M5-M16/282613961689?hash=item41cd1ad3d9:m:m6gdnuvb7gBorygA9WgyK6A
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Ringkabelschuh-Flachkabelschuh-Rundkabelschuh-05-6mm-Steckverbinder-Kabelschuhe/113676024656?hash=item1a779e7b50:m:m2l-WHSOfqZyFiDPJ5eJxJw
+
+blacklisted:[]
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabel-NYM-J-3x1-5-mm-100-M-Stromkabel-Mantelleitung-Feuchtraum-VDE-NYM-J/162412877552?hash=item25d08fd6f0:g:y8EAAOSwIJdbhmWM
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabeltrommel-25m-Robust-L-mit-4-Schutzkontakt-Steckdosen/382722435878?epid=1527478574&hash=item591c08eb26:g:lk0AAOSwQBBcN5ot
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Anschrift.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory E-Mail.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Widerrufsformular.txt', 'mandatory Widerrufsfrist.txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory telefon (alle deutschen Vorwahlen).txt']
+
+
+ +++ https://www.ebay.de/itm/RJ45-CAT6A-Patchkabel-mit-CAT-7-Rohkabel-LAN-DSL-Netzwerkkabel-S-FTP-0-25m-30m/132313076411?epid=22027701996&hash=item1ece7952bb:m:m1_WjTDpYVieobn5gxMz2vQ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabel-NYM-J-5x2-5-mm-15-M-Stromkabel-Mantelleitung-Feuchtraum-VDE-NYM-J/163740543485?hash=item261fb269fd:g:YscAAOSwsClbhmW0
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/1-Paar-Verbindungskabel-vom-Laderegler-zur-Batterie-wahlbar-4-und-6mm-2-10m/162685994100?hash=item25e0d74474:m:mSliv6t8cykYF8U76NzXRWw
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/PVC-Kabelkanal-Kabelleiste-Grose-und-Lange-nach-Wahl-weis-vorgebohrt-NEU/122538386609?hash=item1c87db64b1:m:mp8ZjM9ZEcjFvtBXL9rFsOQ
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Kabelverschraubung-IP68-PG7-PG9-PG11-PG13-5-mit-Gegenmutter-Weis-halogenfrei-Neu/183583496221?hash=item2abe6dd81d:m:mGKrPt4HwPBk3OJZps74BPA
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/m-Ware-Gummikabel-H07RN-F-5G2-5-schwarz-5x2-5qmm-flex-jede-Menge-in-einer-Lange/161168214416?hash=item25865fc990:g:6AkAAOSwVFlT8PfF
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/LiYv-0-5mm-Kabel-verzinnt-Litze-Schaltlitze-10-Farben-in-7-Langen-zur-Auswahl/292108291360?hash=item440302cd20:m:mTefBLGMu4rPcY2kWHzkj9w
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/3Stk-1-Kanal-Kabelbrucke-Uberfahrrampe-Kabelkanal-Uberfahrschutz-Kabelschutz-HOT/401720886482?hash=item5d886e44d2:g:WeMAAOSwYpVcfN6b
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/3m-2-9m-SCHWARZ-EUROVERLANGERUNG-NETZKABEL-230V-EUROSTECKER-EUROKUPPLUNG-KABEL/332783656712?hash=item4d7b739f08:g:gUIAAOSwNuxXX8qJ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Thermoschalter-56-C-250-V-16A-Thermo-Schalter-Ersatz-Kabeltrommel-Trommel-Kabel/132126169936?hash=item1ec3555b50:g:TjYAAOSwYXVcrgTq
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/CEE-Verlangerungskabel-Starkstrom-Kabel-H07RN-F-16A-5-10-15-20-25-30-m-1-5-mm-G/362631936062?hash=item546e8c383e:m:m098081aD1BTnIJ6w-XJPNw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Erdkabel-Starkstromkabel-NYY-J-3x1-5-mm-Elektroleitung-Stromleitung-VDE-15-M/163592748882?hash=item2616e33f52:g:6a8AAOSwri5bhoai
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/5m-Sat-Koax-kabel-Digital-TV-135dB-F-Stecker-VERGOLDET-Antennenkabel-ULTRA-HD-4K/371975882291?epid=1139468106&hash=item569b7d8633:g:sJgAAOSwl8NVeZaE
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/H05RN-F-Gummikabel-Gummischlauchleitung-2-4x0-75-1-0mm-Schnittlange/272809203295?hash=item3f84b2165f:m:mkgy2yFCpMaTYuMM-WJZvXw
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/50m-SAT-Digital-Koaxialkabel-5-fach-geschirmt-135dB-Premium-GOLD-4K-Ultra-HD-3D/401570957835?hash=item5d7f7e8a0b:g:qGEAAOSwlvNcogfS
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Original-Apple-Lightning-Kabel-1m-Ladekabel-MD818ZM-A-fur-iPhone-5-6-7-8-X/132921311207?epid=3010269871&hash=item1ef2ba3fe7:g:-skAAOSw8DpcB6~g
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/5m-Sat-Koax-kabel-Digital-TV-135dB-F-Stecker-VERGOLDET-Antennenkabel-ULTRA-HD-4K/371975882291?epid=1139468106&hash=item569b7d8633:g:sJgAAOSwl8NVeZaE
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Original-Apple-Lightning-Kabel-1m-Ladekabel-MD818ZM-A-fur-iPhone-5-6-7-8-X/132921311207?epid=3010269871&hash=item1ef2ba3fe7:g:-skAAOSw8DpcB6~g
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/10m-Antennenkabel-Digital-TV-Kabel-135db-Koax-Stecker-Buchse-VERGOLDET-HD-4K-3D/371351066474?epid=1139556137&hash=item56763f976a:g:gIAAAOSw~OdVfDQu
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Kabelmuffe-IP68-wasserdicht-3-polig-Kabel-Verbinder-fur-Erdkabel-Leitungen-Muffe/263719407223?hash=item3d66e6ce77:m:m1B48ryFHgHInYznpoAZ13A
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/SANNCE-HDMI-Kabel-1-8m-Hochgeschwindigkeits-3D-High-Speed-Vergoldete-Stecker/122140735548?epid=1268586355&hash=item1c7027b83c:g:qlcAAOSweW5VVqmZ
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Sockelleisten-Fusleisten-Laminatleisten-mit-Kabelkanal-Fussleiste-ab-0-98-m/332523516327?hash=item4d6bf231a7:m:m2WbisRRDnMaxmezw0lXy5Q
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Sprache.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/Anschlusleitung-mit-Schalter-und-Stecker-3-x-0-75-qmm-2-Meter-schwarz/333239071555?hash=item4d9698b343:g:wJMAAOSwoxhc6SBj
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Kunststoff-Kabelverschraubung-mit-Gegenmutter-M16-M20-M25-M32-fur-Kabel-IP68-Neu/372677617312?hash=item56c55126a0:m:mhZXrS_DM6RACp86_g8vIXQ
+
+blacklisted:[]
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Netzkabel-IEC-60320-C7-Premium-Stromkabel-fur-Kleingerate-Euro-schwarz/162608262604?hash=item25dc352dcc:g:~sYAAOSwx0tZeyMD
+
+blacklisted:[]
+
+mandatory:['Vertragschluss - mandatory.txt', 'mandatory - technische Schritte.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory gesetzliche Mängelhaftung.txt']
+
+
+ +++ https://www.ebay.de/itm/5-X-FFC-FPC-ZIF-Konnektor-0-5mm-Pitch-Stecker-Plug-Flachbandkabel-Buchse/282229272509?hash=item41b62cefbd:m:mYKLjA_RhdFwS-zIKXDmcKg
+
+blacklisted:['blacklist trusted shops.txt']
+
+mandatory:[]
+
+

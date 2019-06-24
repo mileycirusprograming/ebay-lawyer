@@ -3,10 +3,16 @@ import requests
 import codecs
 import os
 
-url = "https://www.ebay.de/itm/Original-Audi-19-Zoll-Felgen-A4-S4-B9-Alufelgen-Sommerreifen-Neu-Sommerrader/173837096716?_trkparms=aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20180816085401%26meid%3Dea18f30fdbb747cab5190f43fe9b28ba%26pid%3D100970%26rk%3D2%26rkt%3D2%26sd%3D290870810757%26itm%3D173837096716&_trksid=p2481888.c100970.m5481&_trkparms=pageci%3Ad401779d-4a6c-11e9-94c6-74dbd180f0d4%7Cparentrq%3A97020f691690ad78ab4a7810fffe176a%7Ciid%3A1"
+PAGES = 3
 
 path_blacklist = os.getcwd() + "/blacklist"
 path_mandatory = os.getcwd() + "/mandatory"
+path_query = os.getcwd() + "/search_query.txt"
+
+def read_query(path):
+    file_handler = codecs.open(path, 'r', 'iso-8859-15')
+    lines = file_handler.read().splitlines()
+    return lines
 
 def get_files(path):
     files = []
@@ -94,62 +100,61 @@ def search(query):
     url = "https://www.ebay.de/sch/i.html?_nkw=" + str(query) + "&LH_SellerType=2"
     id_listing = "sresult lvresult clearfix li"
     id_listing_shic = "sresult lvresult clearfix li shic"
-    soup = get_html(url)
-    #iterate through all search results (50 per page)
-    for i in range(1,51):
-        li1 = soup.find("li", {"class": id_listing, "r": str(i)})
-        if not li1:
-            li1 = soup.find("li", {"class": id_listing_shic, "r": str(i)})
-        if li1:
-            href = li1.find("a", {"class": "vip"})["href"]
-            results.append(href)
+    for page_number in range(1, PAGES + 1):
+        page_url = url + "&_pgn=" + str(page_number)
+        soup = get_html(page_url)
+        #iterate through all search results (50 per page)
+        for i in range(1,51):
+            li1 = soup.find("li", {"class": id_listing, "r": str(i)})
+            if not li1:
+                li1 = soup.find("li", {"class": id_listing_shic, "r": str(i)})
+            if li1:
+                href = li1.find("a", {"class": "vip"})["href"]
+                results.append(href)
     return results
 
-search_query = input("Search query: ")
-search_results = search(search_query)
+pages_input = input("Number of pages to search: ")
+try:
+   pages_int = int(pages_input)
+   PAGES = pages_int
+except ValueError:
+   print(pages_input, "is not a valid number.")
+   print("Searching", PAGES, "pages by default.")
 
-file_result = open("search_results/" + search_query + ".txt", "w")
-file_details = open("search_results/details/" + search_query + ".txt", "w")
+search_terms = read_query(path_query)
+print()
+print("Start search with", len(search_terms), "search terms.", end="\r")
+for search_term in search_terms:
+    print()
+    print()
+    print("Search term:", search_term)
+    print("Evaluating", PAGES, "pages.")
+    search_results = search(search_term)
 
-for url in search_results:
-    print(url)
-    blacklisted, blacklisted_details, mandatory, mandatory_details = evaluate(url=url)
-    print("blacklisted:", blacklisted)
-    print("mandatory:", mandatory)
+    file_result = open("search_results/" + search_term + ".txt", "w")
+    file_details = open("search_results/details/" + search_term + ".txt", "w")
+    for url in search_results:
+        print("Processed", search_results.index(url) + 1, "of", len(search_results), "links.", end="\r")
+        blacklisted, blacklisted_details, mandatory, mandatory_details = evaluate(url=url)
+        #print("blacklisted:", blacklisted)
+        #print("mandatory:", mandatory)
 
-    if blacklisted or mandatory:
-        file_result.write(" +++ " + url + "\n")
-        file_result.write("\n")
-        file_result.write("blacklisted:" + str(blacklisted) + "\n")
-        file_result.write("\n")
-        file_result.write("mandatory:" + str(mandatory) + "\n")
-        file_result.write("\n")
-        file_result.write("\n")
+        if blacklisted or mandatory:
+            file_result.write(" +++ " + url + "\n")
+            file_result.write("\n")
+            file_result.write("blacklisted:" + str(blacklisted) + "\n")
+            file_result.write("\n")
+            file_result.write("mandatory:" + str(mandatory) + "\n")
+            file_result.write("\n")
+            file_result.write("\n")
 
-        file_details.write(" +++ " + url + "\n")
-        file_details.write("\n")
-        file_details.write("blacklisted:" + str(blacklisted_details) + "\n")
-        file_details.write("\n")
-        file_details.write("mandatory:" + str(mandatory_details) + "\n")
-        file_details.write("\n")
-        file_details.write("\n")
+            file_details.write(" +++ " + url + "\n")
+            file_details.write("\n")
+            file_details.write("blacklisted:" + str(blacklisted_details) + "\n")
+            file_details.write("\n")
+            file_details.write("mandatory:" + str(mandatory_details) + "\n")
+            file_details.write("\n")
+            file_details.write("\n")
 
-
-
-
-quit()
-
-print(search("pc"))
-
-# Prints the url, listed item name, and the price of the item
-print(url)
-
-blacklisted, blacklisted_details, mandatory, mandatory_details = evaluate(url=url)
-
-print("blacklisted:", blacklisted)
-print("mandatory:", mandatory)
-
-print("Details:")
-print(blacklisted_details)
-print(mandatory_details)
-
+print()
+print("Search completed.")

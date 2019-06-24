@@ -1,0 +1,1757 @@
+ +++ https://www.ebay.de/itm/Herren-Damen-Turnschuhe-Laufschuhe-Sneaker-Sportschuhe-Breathable-Schnurschuhe/293046880006?hash=item443af48706:m:m18BKQLvMhuWhWufbyWpYVQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-T-Lite-XI-Training-Sneaker-Fitness-Sportschuhe-Herren-616544/122568692702?epid=6031074349&hash=item1c89a9d3de:m:mm1NEIrVReS_4uErxp7Illg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Sneakers-Laufschuhe-Sportschuhe-Turnschuhe-Sneaker-Schnur-Freizeit/233232997318?hash=item364dc51bc6:m:m-7UUnUw4KuFlcWeuEOuFYA
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Schnurschuhe-Laufschuhe-Turnschuhe-Sportschuhe-schvhe-Sneaker/173915507766?hash=item287e2c0c36:m:mCpRd9RsRm-qzAX899etdbg
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Converse-Chucks-All-Star-OX-Canvas-Schuhe-Sneaker-diverse-Farben/290808860116?epid=14028675315&hash=item43b58f0dd4:m:m1EAbEqhfctGlVrAo5BenQA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Low-Turnschuhe-Schnurer-Bequeme-Freizeitschuhe-830523-Schuhe/382854574901?hash=item5923e93335:m:mIM7xWt-8uZzcGeHcwIOFqg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Tanjun-Premium-SE-Schuhe-Sneaker-Herren-812654/122536657399?epid=1554895314&hash=item1c87c101f7:m:m7Orel5o1hwaxuiYMJQhAJw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sportschuhe-Laufschuhe-Turnschuhe-Schnurer-Sneaker-825937-Trendy-Neu/183644531319?hash=item2ac2112a77:m:mMt9f_xelpB7Iq-_xm0RaKw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Converse-Chuck-Taylor-All-Star-Hi-Schuhe-High-Top-Sneaker-Damen-Herren/290967804739?epid=1412022238&hash=item43bf085b43:m:maHnNIEpjYa3rZzmlHErpFw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Schnurschuhe-Laufschuhe-Turnschuhe-Sportschuhe-schvhe-Sneaker/293034656542?hash=item443a3a031e:m:mJENEUhb6a6go8DJ9UTRTWw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Sportschuhe-Schnurer-Fitness-Sneaker-Turnschuhe-830537-Trendy-Neu/173845432519?hash=item2879fec8c7:m:mlMTwjPiADWYNDlwkOEv04A
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Dame-Air-Max-270-Frauen-Laufschuhe-Turnschuhe-Outdoor-Bequem-Weis-36-45/382986488464?hash=item592bc60a90:m:mhqUBeVz9ZfoLo2yjcJN6qA
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Performance-VS-Advantage-Schuh-Herren-Sneakers-Weis-Freizeit/163724960054?hash=item261ec4a136:m:mEM5vI0GabP7dZvglrG8L5w
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-90-Essential-537384-084-Sportschuhe-Gr-US-8-US-12-Geschenk/183768985241?hash=item2ac97c2e99:m:mGqQit5cgtZ0CsvOn_KnXsw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/2019-Herren-Damen-Sportschuhe-Atmungsaktiv-Turnschuhe-Laufschuhe-Running-Sneaker/173920038513?hash=item287e712e71:m:mSIjYug4pMx8gSoT3d2NVIQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/NIKE-AIR-MAX-270-HERRENSCHUHE-5xFARBEN-Gr-US-7-12-GESCHENK/153467580280?hash=item23bb616f78:m:m1kSdU9pcQf_E8g6pUcqadQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Sobakov-Schuh-Herren-Sneakers-Grau-Freizeit/163724960091?hash=item261ec4a15b:m:maUJjYvLUfPm1XImn6H1V3g
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Laufschuhe-Sportschuhe-Strick-Turnschuhe-Schnurer-Sneaker-830822-Schuhe/382882856832?hash=item592598bf80:m:mlM08iBUf1W1CslHw_jEcxQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-LTD-3-Schuhe-Sneaker-Herren-687977-111-Weis/292980439917?hash=item4436febb6d:m:mvYrswxYD89J5-ftzIjnVGA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-POD-S3-1-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960169?hash=item261ec4a1a9:m:mu29PtxxkGNrWObAw2CbTMQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Kappa-Maresas-Herren-Schuhe-41-42-43-44-45-46-47-48-50-Sportschuhe-Sneaker-neu/252215492359?hash=item3ab936ff07:m:mAA__Jt_qvraNY6e1Apw6kA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-MD-Runner-2-Schuhe-Sneaker-Herren-Schwarz-749794-010/293101333163?epid=1241174031&hash=item443e336aab:m:mzOfy6nrQotjT5BydNYJMEw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/NB-New-Balance-ML574-Sneaker-Herren-Fashion-Schuhe-574-Freizeit-Turnschuhe-NEU/312562895177?epid=18012730598&hash=item48c6334949:m:mhWMU488Op6E-mpEcmOOk3w
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-POD-S3-1-Schuh-Herren-Sneakers-Beige-Freizeit/163724960856?hash=item261ec4a458:m:mvBziD_jmoT19Nkdx0WFmpQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Tubular-Shadow-Damen-Herren-Strasen-Schuhe-Turnschuhe-Sneaker/401754446130?epid=2263595410&hash=item5d8a6e5932:m:mbZG_C63ofDUdG_XX7TeWBw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Low-Turnschuhe-Schnurer-Bequeme-Freizeitschuhe-830748-Trendy-Neu/173890878340?hash=item287cb43b84:m:mLOx3KUqVV_2bpNlikTS4cw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-NMD-R1-STLT-Primeknit-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724959980?epid=28013512865&hash=item261ec4a0ec:m:mDHSbbu-rWt8sgAklT6U6DQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-Herren-Schuhe-Runfalcon-Herrenschuhe-Sneaker-Turnschuhe/113756662952?hash=item1a7c6ceca8:m:m9f7MNCj47h92IhxJgMd-IA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Turnschuhe-Laufschuhe-Sneaker-Sportschuhe-Breathable-Schnurschuhe/382947253034?hash=item59296f5b2a:m:m3eKJg2y7yZ3OX2MP2gMtSg
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sneaker-Low-Schnurer-Leder-Opti-Freizeit-Turnschuhe-830114-Schuhe/333086045182?hash=item4d8d79b3fe:m:muFm6nJJwDksp5vYqau5dDA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Climacool-1-Herren-Damen-Sneaker-Freizeit-Schuhe-BY2135-neu/401765652202?epid=17032148774&hash=item5d8b1956ea:m:mZEQMP7uJkZkPAvty6r3TBQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Kinder-Sneakers-Sportschuhe-Freizeit-Schuhe-890630-Gr-30-46/391377080703?hash=item5b1fe4517f:m:m36nlX3pxg6XHiFIov39i5Q
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-EQT-Support-93-17-Schuh-Herren-Sneakers-Grau-Freizeit/163724960036?hash=item261ec4a124:m:mNC1IQt8mC4d0UXqohmaY2w
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/NEU-SCHUHE-ADIDAS-ORIGINALS-X-PLR-HERRENSCHUHE-SNEAKER-LAUFSCHUHE-CQ2405-SALE/232648188325?epid=5012144483&hash=item362ae9a1a5:m:mweAbxcYaT4Tkdz2Ad0etBA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Yung-96-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960190?hash=item261ec4a1be:m:mH4ClkkJrhxAkzgRzww4RSA
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-niedrig-Sneaker-Freizeitschuhe-Skate-Schuhe-Shell-Head-Schuhe/254270899999?hash=item3b33ba071f:m:m_N1DYCsqE9oAnWPvwG3JqQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/DE-CONVERSE-CHUCK-TAYLOR-ALL-STAR-OX-SCHUHE-KLASSIKER-CHUCKS-LOW-SIZE-EU-35-46/183852831134?hash=item2ace7b919e:m:m0lvFrwGAjmum38jeMAfgrQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Sneaker-Low-Glitzer-Turnschuhe-Schnurer-Freizeit-Schuhe-825901-Trendy-Neu/183640762787?hash=item2ac1d7a9a3:m:mAK2y6bs4RbXxOb3SBE1xiA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-LTD-3-Command-Sneaker-Classic-Sportschuhe-BV1171-687977/254237822231?hash=item3b31c14d17:m:mrc5PzC5LA1MCRCF-DOqvrw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Vision-Street-Wear-Schuhe-Skaterschuhe-Sneaker-Skateboarding-41-42-43-45-46-47/202602227880?hash=item2f2c08a8a8:m:meHbDXC1zUOSqq0wUHeqNzw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/2019-Balance-Neu-Laufen-Sea-Escape-Sneaker-Schuhe-Freizeit-Turnschuhe-NB-Schuhe/123808081748?hash=item1cd3896754:m:mCRrYeXyFvIbKzJnsGlvuiQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/FILA-Schuhe-niedrig-Leder-oder-Faux-Disruptor-schwarz-Weis-lackiert-Sneak-Neu-DE/173866543955?hash=item287b40eb53:m:mFaVgFr2xYYGncYTrsa3WZw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Tanjun-Schuhe-Sneaker-Herren-812654-001-Schwarz/302862702897?epid=1354440013&hash=item4684061931:m:mjZOflHjeSpKCXSI5r-fkdg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Air-Cushioned-Sportschuhe-Turnschuhe-Sneaker-Schnur-Laufschuhe-DE/303136204864?hash=item4694536840:m:mU7dFkg4ymK-snujUcyjlZA
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/PUMA-DRIFT-CAT-5-BMW-NM-HERRENSCHUHE-SNEAKER-FREIZEIT-SCHWARZ-SPORT-304879-03/333201452978?hash=item4d945aafb2:m:mryDiNo3Jw7iX0bojsZ8y5g
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-270-Herren-Damen-Turnschuhe-Sneaker-Weiss-Schwarz/183856573710?epid=11024800291&hash=item2aceb4ad0e:m:m5AbBuSgAsDmOEUSBx9vbQg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/ADIDAS-CLOUDFOAM-PURE-RUNNING-FITNESS-DB0695-SNEAKERS-SCHUHE-TURNSCHUHE-SHOES-42/273778197118?epid=0&hash=item3fbe73c27e:g:45UAAOSw8KRcmS0N
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Summerfresh-SNEAKER-PARADISO-Herren-Vintage-Look-Schuhe-S027/351994287847?hash=item51f47e96e7:m:mcWTqhbhJJnzJRbSFbvxydQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/NikeAir-Max-270-Herren-neu-mit-Herren-Schwarz-Sneaker-Turnschuhe-DE/323842627716?var=&hash=item4b66865884&enc=AQADAAAC8FjVrDbVsZ8oH%2F8PNHtt9VX4%2Fw7FZcmMuqsX8uaFEduVxLzMCR3gGDxjBPQ54edEr9obOa31EuOCIL9yun2xKmg%2FtJKwZ775%2BmPZNEkWkkapwQS7b3Aa6ZTyU3G9URmvlrrtrondH7AdoMbiRAVKrKo60ZMFnXTwzPy6aJMDrMqQTpKyZPeG9A4p5c87lFC7%2F2FRk1UEtwfWPya7lhklW9J0YV99Z%2BaR7ww6DouELh8GnRUrl%2BhyK%2Bs8WbfwQfRRhRSKxSZu8c8x24iBrtn5H%2FVV1IL1WfG03isILmcZdyBm49DMuF03aY0OsedYvPJUELLdfjnuqvbMytnKspYanVPNu0TXA3ZkbkVkTpHK2ddtsGUmyEqcAAZ8BjrDB%2FjTNljXxgRYB%2Fd3ECXHSLEcpDGzwmUeJHPryQe0bIWsr4gC%2FKREi%2BLMoAk4nUD6xXlsdfaZ%2FVLe6K3SIPGqGwRE6TqZ2sdEWrL93V%2BEYl07gi3QQ0wUsRk%2Fwl8Q%2BnDjiHFmx5pg5hpRyw3g0AtYeEzay3dOAfM6eO%2FBVTQjOoKzJt%2FBihJuADVh2%2BDjZ6%2BFwzU9CpWbtR6UwMw3oibZXxijaVNZBr7ZrBcnZWU3IbfJs7an%2F3GUcxy641pRmRVklxh804sqHM%2Bt96YRQcdNPwknxQJXHdEoqvkrNmfEnx1y%2FyUjLlXenf0ZeJyfjtclpZgpuFHpJdRWqClaUHBIHB%2FGqFnmzNFE3Qm9x42nXLz2cNBEQjqDqdGuxJqtfle4bISa4Xmh8OoyL2h0Edi%2BCuv2NwyciyrKxnzmfzyuKfWrgbw3MwutoRrnjWKquCl1%2Fz6qsjijvDBN%2Fhdt8S84Q9sh5jpOFsBFFpXKhmr4O3t3mwPxlxPDEhUaTOVia0X%2FWgINrAMYOJckk0qKvtRtI%2F9VPzWyETTZAf5LwIy8U%2FJSkt5m8FrCq99XmNg6k5hIjhecDkbg9JMMAEryaQre1YlmC07sGQppLNvW5ZrTNaxr62UE&checksum=3238426277168853afeb4eff4f67b1e83f6e4ffd9dbf
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Stretch-Halbschuhe-Slipper-Sneaker-Turnschuhe-Freizeitschuhe-36-43/233172665737?hash=item364a2c8589:m:mavfMs3sjKydtxeICVHvF2Q
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-VS-PACE-AW4594-Herren-Sportschuhe-Sneaker/132688825468?epid=1075400815&hash=item1ee4decc7c:m:mUURbvIPJCsNxdweP_xOj3w
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/ADIDAS-NEO-CAFLAIRE-LOW-SNEAKER-SCHUHE-HERREN-DB0410/264003420431?hash=item3d77d4810f:m:mT8PBv-MVkXUz5conBFP4dA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Sobakov-Schuh-Herren-Sneakers-Braun-Freizeit/163724960442?hash=item261ec4a2ba:m:mjGqsoyjn_d-M7KVLOOybcw
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Freizeit-Speedcross-Outdoorschuhe-Laufschuhe-Shoes-Grose-39-48/143189149195?hash=item2156bd060b:m:mJfsSRkNdTkoHe104o_K4hg
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Sobakov-Schuh-Herren-Sneakers-Beige-Freizeit/163724960562?hash=item261ec4a332:m:mY2-SIAvNgKlghH06a1xHLQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Herren-Laufschuhe-Sportschuhe-Sneaker-Turnschuhe-Runners-Schuhe-36-46/143239869272?hash=item2159c2f358:m:mzrgxFV6zODuwKTXx_nlLnQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/ADIDAS-MARATHON-TR-BB6803-BB6804-TURNSCHUHE-Gr-UK-7-5-UK-11-Geschenk/153480418661?hash=item23bc255565:m:mr_MWHCeuapyFgcSAIuxvGQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Air-Max-Sneaker-Halbschuhe-Turnschuhe-Herren-Damen-Sportschuhe-Laufschuhe-Neu/123771046154?hash=item1cd154490a:m:mC8aUaYoYpiapBMYUhjC6Pw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-MD-Runner-2-Midnight-Navy-Schuhe-Sneaker-Herren-749794-410-Blau/122184358176?epid=1642763283&hash=item1c72c15920:m:mllbPxaogzsHgYpvNWly_UQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Unisex-Sneakers-Sportschuhe-Turnschuhe-Laufschuhe-Freizeit-Gr36-47/293034553468?hash=item443a38707c:m:mG0XiOSXxrmUfFLjCUsZM1Q
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/FILA-Damen-Disruptor-II-2-Sneakers-lassig-sportlich-laufen-Walking-Sportschuhe/123759518478?hash=item1cd0a4630e:m:m3M-i9w21RPI6rvPUfZBaoA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Unisex-AIR-MAX-270-Luftkissen-Joggingschuhe-Ganz-Sneaker-Gr-36-45/401779330744?hash=item5d8bea0eb8:m:mzu-uk6nHp_p9xlK9kTM0yw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Tanjun-Schuhe-Turnschuhe-Sneaker-Herren-812654-010-Grau/123200166119?epid=1554894990&hash=item1caf4d58e7:m:mKpQdCekxY9U340Va8ZYCcA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Schnurschuhe-Laufschuhe-Turnschuhe-Sportschuhe-schvhe-Sneaker/293038715085?hash=item443a77f0cd:m:mJENEUhb6a6go8DJ9UTRTWw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Sportschuhe-Sneaker-Turnschuhe-Laufschuhe-Wanderschuhe-Outdoor/143102704742?hash=item215195fc66:m:m-RnPaNtspOmmhiBqBQtFEw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Yung-1-Schuh-Herren-Sneakers-Grau-Freizeit/163724960386?hash=item261ec4a282:m:mJhC0dWxXeHdNp1AM3BLZpg
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Revolution-4-Laufschuhe-Running-Schuhe-Herren-AJ3490/292604819978?hash=item44209b3a0a:m:mLqXQS4Ze-D19gCJxlZ8C9A
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Sportschuhe-Laufschuhe-Profil-Turnschuhe-Fitness-Sneaker-825909-Trendy-Neu/183641590701?hash=item2ac1e44bad:m:mywb93sjex9QFZmanu0e-oQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/ADIDAS-ADI-RACER-LOW-klassische-Herren-Turnschuhe-Sneaker-Goodyear-Casual/233195045966?hash=item364b82044e:m:mStlcDj-qL3d9hn_w_8T7kg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/VAN-S1-Old-Skool-Damen-Herren-Canvas-Sneaker-Freizeitschuhe-Skate-Schuhe-niedrig/283516140466?hash=item4202e0fbb2:m:ma-eTLEoYb5qycMzOgfoT8g
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sportschuhe-Laufschuhe-Schnurer-Turnschuhe-Fitness-Sneaker-825916-Schuhe/382736873902?hash=item591ce539ae:m:mvwUABcL3_ToAaDbf4RoK3g
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Low-Stickereien-Turnschuhe-Schnurer-Freizeit-825931-Schuhe/333025179664?hash=item4d89d8f810:m:mWzciwYzb1NDH8qKMmVLwvA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-performance-Samba-IN-Erwachsenen-Fusballschuhe-Halle-Freizeitschuhe-black/352669949112?epid=4031846041&hash=item521cc45cb8:m:mrjjg6MUdwy1he0VYeN1DRw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-performance-Samba-IN-Erwachsenen-Fusballschuhe-Halle-Freizeitschuhe-black/352669949112?epid=4031846041&hash=item521cc45cb8:m:mrjjg6MUdwy1he0VYeN1DRw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/NIKE-TANJUN-NEU-HERREN-SCHUHE-TURNSCHUHE-SNEAKER-WEISS-SCHWARZ-TOP-812654101/332565311227?epid=19014399575&hash=item4d6e6feefb:m:mgdzcW6STZSEGOxJmlQvieA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Low-Stickereien-Turnschuhe-Schnurer-Freizeit-825931-Schuhe/333025179664?hash=item4d89d8f810:m:mWzciwYzb1NDH8qKMmVLwvA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Continental-80-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960435?hash=item261ec4a2b3:m:mrcpH5aJjD_3DdDpKOinjOw
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/FILA-Weiblich-Turnschuhe-Sportschuhe-Running-Shoes-Schnurschuhe-Sneaker-Beliebt/163698624344?hash=item261d32c758:m:mBujsCSzVJN_83BXUFDlvwg
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Stan-Smith-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960547?hash=item261ec4a323:m:mJ60pTDOqXux0oqdy9B7ucQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sportschuhe-Turnschuhe-Sneaker-Schnur-Laufschuhe-Freizeit-Gr-35-44/153529936957?hash=item23bf18ec3d:m:mmVWgF7qn1PNwkaFToMND2Q
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Turnschuhe-Laufschuhe-Sneaker-Sportschuhe-Breathable-Schnurschuhe/143233834089?hash=item215966dc69:m:mCvx5i5vWffeQ4g5tmk3wrw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Marathonx5923-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960771?hash=item261ec4a403:m:m5KlVDT-HcUrQMm85s7woWw
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Huarache-Schuhe-Sneaker-Herren-Weis-318429-111/121933592335?epid=2254481587&hash=item1c63cef70f:m:mRHNdGocgDQJKuYmOyOMwyg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Halbschuhe-Sneaker-Freizeit-Sport-Schuhe-Turnschuhe-Slip-On-Loafers/123750629945?hash=item1cd01cc239:m:mNCfTWQ713GqOB7QCachBFw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/ADIDAS-SUPERSTAR-FOUNDATION-C77124-TURNSCHUHE-Gr-UK-4-5-UK-10-Geschenk/392271285121?hash=item5b5530cb81:m:mu-Iw0YjdmI7aNyo25kDjYQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/892895-Herren-Sneakers-Low-Camouflage-Prints-Freizeit-Turnschuhe-Mode/283448656294?hash=item41fedb41a6:m:muPbgdO-aAEjkIvUn19UjCg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Deerupt-S-Runner-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960622?hash=item261ec4a36e:m:mkSjM22ALcxld9rZWdmhWlA
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-Stan-Smith-Unisex-Turnschuhe-M20324-M20325-M20327-Sneaker-Geschenk/233251243817?hash=item364edb8729:m:m2nt5ueeKjez2gw3N74Kvwg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Air-270-Sportschuhe-Flyknit-Flywire-Air-Cushion-Sport-Sneakers-Herren-38-45/362636021110?hash=item546eca8d76:m:m0fH7OnwyAQ1V-OnGawePhw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sportschuhe-Turnschuhe-Sneaker-Schnur-Laufschuhe-Freizeit-Gr-36-44/153519274721?hash=item23be763ae1:m:mj2DkQA_txauavsxvwp1Vgw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Performance-VS-Advantage-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724915068?hash=item261ec3f17c:m:mE2z7TYTxLs6WGvvp3s--vQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sportschuhe-Turnschuhe-Sneaker-Schnur-Laufschuhe-Freizeit-Gr-39-44/183847540270?hash=item2ace2ad62e:m:mhpKWVgeW0qxiswxeoXr_5w
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-INVIGOR-Sneaker-LTD-Classic-Sportschuhe-Turnschuh-749680/253716655285?hash=item3b12b0ecb5:m:maKNpGqh5WVt15v-35OfTiQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/New-Barfusschuhe-Sneaker-Schuhe-Ultraleicht-Wasserdicht-Laufschuhe-Turnschuhe/173916056324?hash=item287e346b04:m:mq46ZKs9RveeJc3_vc1GM-A
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/2018-VAN-SUP-OLD-SKOOL-Damen-Herren-Canvas-Sneaker-Freizeitschuhe-Skaterschuhe/183736196749?hash=item2ac787de8d:m:mX7C3tgEz_8dWfpJCyJ8yRg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Plateau-Sneaker-Turnschuhe-Schnurer-Basic-Plateauschuhe-825894-Trendy-Neu/183717385863?hash=item2ac668d687:m:mOVmGxGjwLnZVoE3-UqL2pg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Sneaker-Low-Bequeme-Turnschuhe-Schnurer-Freizeitschuhe-830791-Schuhe/362608215745?hash=item546d2246c1:m:m0qcxkf9CdL3jeiAx8xNeNA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Classic-Cortez-Schuhe-Sneaker-Herren-Damen-Nylon-Leder/292252011324?hash=item440b93cb3c:m:mGR9Cv_tvzr3tnYuP_AbGYA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Classic-Cortez-Schuhe-Sneaker-Herren-Damen-Nylon-Leder/292252011324?hash=item440b93cb3c:m:mGR9Cv_tvzr3tnYuP_AbGYA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-Originals-Superstar-Foundation-Schuhe-Sneaker-Turnschuhe-Herren-Damen/291390528050?epid=1841130119&hash=item43d83a9a32:m:muru1JHXIDde7vWqh-btvsw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/DE-Herren-Mesh-Trekkingschuhe-Wanderstiefel-Outdoor-Trekking-Wasserdicht-Sneaker/303162793069?hash=item4695e91c6d:m:mc16dUfW6U3DnKJVfow0J3w
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sportschuhe-Turnschuhe-Sneaker-Schnur-Laufschuhe-Freizeit-Gr-39-44/192919251587?hash=item2ceae22a83:m:moNhc5TbxXE-86vzpM8R-Yg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Laufschuhe-Turnschuhe-Sportschuhe-Running-GYM-Freizeitschuhe-Neu/352609651460?hash=item52192c4b04:m:maRxJAsz5LhEdRfYY3oPxUw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Converse-Chuck-Taylor-All-Star-Hi-Herren-Sneaker-Chucks-knochelhohe-Turnschuhe/382086803785?epid=1020293555&hash=item58f625f149:m:mTlAFblF9XsfBlT1q-GMe7Q
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Kamanda-01-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960537?hash=item261ec4a319:m:mUzRtNwdOf6KRTw8gOVHrig
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-Climacool-1-Schuhe-BA7167-Sneaker-Turnschuhe-Sportschuhe-Unisex/253882006168?hash=item3b1c8bfa98:m:mdtQZy8MIVGrUDaNVp4uYBQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Gazelle-Schuh-Herren-Sneakers-Beige-Freizeit/163724960788?hash=item261ec4a414:m:maaq5ycLeZI9Y1SNEqyprjA
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-270-Futura-Schuhe-Sneaker-Herren-AO1569/123565836070?hash=item1cc5190726:m:mGXluz6uyzaSDhNtbqHQe7w
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Laufschuhe-Sportschuhe-Transparente-Schnurer-Sportlich-831101-Trendy-Neu/183808084359?hash=item2acbd0c987:m:mD3twX4Oelf934hgSyLz9hg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-Originals-Superstar-Schuhe-Sneaker-Herren-Damen-C77124-Weis/302597223922?epid=3031016385&hash=item46743335f2:m:mZ7gFg03kz6prKrYVtdlY8w
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Low-Schnurer-Turnschuhe-Bequeme-Freizeitschuhe-830522-Schuhe/333126077673?hash=item4d8fdc8ce9:m:mDqfi2WSgI_NRo-y72twVJQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/NEU-SCHUHE-NIKE-TANJUN-HERREN-SNEAKER-LAUFSCHUHE-SCHWARZ-812654001-SALE/332385796618?epid=1354439983&hash=item4d63bcc20a:m:mAK_qplkhLWfG-vDOrrsPug
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Merrell-Vapor-Glove-3-Luna-Herren-Barefoot-Schuhe-J97181-Barfusschuhe-Grau-NEU/123778278226?hash=item1cd1c2a352:m:mS1rgJMF6FyYpsXTtHN5r0Q
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/Puma-ST-Runner-v2-Full-L-Sneaker-Schuhe-Turnschuhe-Leder-365277-Weis-und-Schwarz/132441859794?hash=item1ed62666d2:m:mPNSxq7jt-sxM3xxVZbRQRQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Unisex-Barfusschuhe-Running-Schuhe-Ultraleicht-Wasserdicht-Turnschuhe-Laufschuhe/153022000195?hash=item23a0d26c43:m:mrQIz6pjtsJthH2vJMnAOEw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-Thea-Schuhe-Sneaker-Damen/292331705493?hash=item441053d495:m:mIjZmGZdH3vpY03boX9pBhA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Herren-Damen-Sportschuhe-Turnschuhe-Sneaker-Outdoor-Laufschuhe-Gemutlich/254228605284?hash=item3b3134a964:m:mtuNlnq4tyH4cz5xmyNV6oQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Presto-Fly-SE-World-Schuhe-Sneaker-Herren/122826748249?hash=item1c990b7159:m:m0S6mj3N4qG0uPVP-io3n9A
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Jungen-LED-leuchten-Schuhe-USB-Flashing-Fiber-Optic-leuchtende-Sneakers/382855999319?hash=item5923feef57:m:mxHq5PmeQ-pqhe3-nPgbWVQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Mesh-aushohlen-Sportschuhe-Sommer-Wandern-Sneakers-Outdoor-schnuren-Neu/392304771281?hash=item5b572fc0d1:m:mKDWi945egvDdx9iA3oZ3jA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-Thea-Schuhe-Sneaker-Damen/292331705493?hash=item441053d495:m:mIjZmGZdH3vpY03boX9pBhA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Sobakov-Schuh-Herren-Sneakers-Grun-Freizeit/163724960286?hash=item261ec4a21e:m:mh_yvl0B05aKfmOTxLRD4eg
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Handball-Spezial-Schuh-Herren-Sneakers-Braun-Freizeit/163724960145?hash=item261ec4a191:m:mJEByTFHoJ0k3XF5R6GaPkw
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/893140-Sportliche-Herren-Slipper-Slip-ons-Sneakers-Stoffschuhe-Freizeit-Mode/293066254311?hash=item443c1c27e7:m:mUfUux2B238oPKdwag9WKbA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Barfus-Wasserschuhe-Strand-Aqua-Schwimmschuhe-Socken-Neopren-Schuhe-Badeschuhe/253787638954?hash=item3b16ec0caa:m:mV3DG5F9EX73hrpVYlmo2Mg
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-90-Leather-Schuhe-Turnschuhe-Sneaker-Herren-Leder-302519-113-Weis/122802171592?epid=14031004189&hash=item1c97946ec8:m:mky7WpK5BBAuZDV_bFyIUuw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Barfusschuhe-Wasserschuhe-Badeschuhe-Schwimmschuhe-Sneaker-Turnschuhe-Neu/382816496987?hash=item5921a42d5b:m:mDx4lPCWhaFs42S_xQrGdnw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sportschuhe-Turnschuhe-Sneaker-Schnur-Laufschuhe-Freizeit-Gr-36-44/113772761576?hash=item1a7d6291e8:m:mXQHQUz4bgGm6d2pdMO6qpQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Sobakov-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960274?hash=item261ec4a212:m:mE_zv3jWl4aoBIUQEbM7K2w
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Air-Max-Sneaker-Freizeit-Halbschuhe-Turnschuhe-Herren-Sport-Schuhe-Laufenschuhe/173898948404?hash=item287d2f5f34:m:mLnsNOs73pNtY6gtAl9rFQw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Atmungsaktiv-Laufschuhe-Sneaker-Sport-Turnschuhe-Schnurschuhe-Boots/143206555937?hash=item2157c6a121:m:m9HJTpptVb97AJITS7pK6FA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Sportschuhe-Laufschuhe-Schnurer-Fitness-Sneaker-Strick-830793-Trendy-Neu/183760163832?hash=item2ac8f593f8:m:mCdsfKQU_KhLnToq_MUZiRA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Herren-Sommer-Mesh-Atmungsaktiv-Turnschuhe-Freizeit-Sneaker-Strandschuhe/254252338273?hash=item3b329ecc61:m:mZO1JJSL8NAWCtO82xsheLg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Performance-Samba-Sneaker-Herren-Schwarz-NEU-Schuhe-Turnschuhe/142607521278?epid=1606297975&hash=item21341215fe:m:m6Todr-iMu4-EA7dB14SeSw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/New-Balance-574-Sneaker-Schuhe-Herren-Schwarz-ML574EGK/302942160135?epid=18012730598&hash=item4688c28507:m:mqx3uXo8GNTnlxvE_gXBFGA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Tanjun-Herren-Damen-Schuhe-Sport-Freizeit-Sneaker-Laufschuhe-Schuhgrose36-45/372634080716?hash=item56c2b8d5cc:m:m09MiUZnMg9utaj5HGooX1w
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-WMNS-Air-Max-Thea-J-AJ2010002-Sportschuhe-Gr-US-6-US-9-5-Geschenk/183758205642?hash=item2ac8d7b2ca:m:mlTH1wj5mjMmE_OCCqW4ZwQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-low-top-mesh-Freizeitschuhe-Bequeme-Atmungsaktive-Laufschuhe-Neu/143271299822?hash=item215ba28aee:m:mCA_MCQxTkGXZJdI5UbMJnw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damenschuhe-Keilabsatz-Glitzer-Ballerina-Sneaker-Plateau-Slipper-Turnschuhe/352587058061?hash=item5217d38b8d:m:muvLJoxXz6-V_m7pkDpDXfw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Laufen-Schuhe-Freizeit-Sea-Escape-Sneaker-Turnschuhe-36-45-New-Balance/123777754037?hash=item1cd1baa3b5:m:m6hBoP7znGmWLT4_mv7hGFQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-Originals-X-PLR-Schuhe-Sneaker-Herren-CQ2405-Schwarz/302605690953?epid=6031009195&hash=item4674b46849:m:muYuVdAw_HlvabuItKdOejg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/FILA-Disruptor-II-Damen-Turnschuhe-Mode-Schuhe-Weis-Running-Schuhe-Pumps-Mode/264329766711?hash=item3d8b482737:m:mQ4BoH3JAXdT1kLohJktkiA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Superstar-Kinder-Damen-Sneaker-Turnschuhe-Halbschuhe-Schuhe/172283433283?hash=item281ce49143:m:mOu-RJX-Rt4Hmo5iKg6uPBw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sportschuhe-Laufschuhe-Leder-Optik-Sneaker-Turnschuhe-821243-Schuhe/332540472329?hash=item4d6cf4ec09:m:mwF5HFwqzdiagA93rUQqurw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Chunky-Sneaker-Plateau-Turnschuhe-Schnurer-Freizeitschuhe-830860-Schuhe/382888347184?hash=item5925ec8630:m:mr_pDO3Of2wDEUkyPPILqvQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Turnschuhe-Sneaker-Sport-Laufschuhe-Jogging-Freizeitschuhe-Gr-36-43/233172667195?hash=item364a2c8b3b:m:mGNKkBoDKg7HRso7r3zQqoQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Herren-Damen-Sneakers-Sportschuhe-Breathable-Turnschuhe-Laufenschuhe-Gr39-47/143266317680?hash=item215b568570:m:mC92W7Z4Nv_X-vD-jsGgytg
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Damen-Herren-Laufschuhe-Sportschuhe-Sneakers-Turnschuhe-Runners-Mesh-Schuhe/173881565601?hash=item287c2621a1:m:m8iFuXEAGm78wXSLVBbivNQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/PUMA-Suede-Classic-Sneaker-Freizeit-Leder-Schuhe-Sport-363242-45-weiss-neu/401740032248?hash=item5d899268f8:m:miK2yZcInCJfk9qXFGzOBTg
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/NEU-SCHUHE-ADIDAS-CONTINENTAL-80-HERRENSCHUHE-SNEAKER-ORIGINALS-SCHWARZ-G27707/233264745517?epid=25031000002&hash=item364fa98c2d:m:mXYDQUObpvEA0RXh_aQwxyA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Running-Schuhe-Freizeit-Sneakers-Sportschuhe-Turnschuhe-Laufschuhe4/352675509138?hash=item521d193392:m:mLBmCeNdFCdkI3GSqY3Srpg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Gr-36-44-VANSOld-Skool-Damen-Herren-Canvas-Sneaker-Freizeitschuhe-Skate-Schuhe/163704069295?hash=item261d85dcaf:m:mOqzTtOFYhbS6hZRS8l58AA
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Atmungsaktives-Laufschuhe-Mesh-Schnurer-Turnschuhe-Sneaker-Sommer-Schuhe/273868645843?hash=item3fc3d7e5d3:m:mUDvpik5QyAjSITETrEhpvw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Turnschuhe-Freizeitschuhe-Lederschuhe-Halbschuhe-NEU-3-Farben/143251419688?hash=item215a733228:m:mTyhpZnMc3C62QTSlhC7bmA
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Unisex-NIKEAIR-MAX-270-Luftkissen-Joggingschuhe-Ganz-Sneaker-NEU-Schuhe/254259882472?hash=item3b3311e9e8:m:mVuTZl2g7js7fyvlhSmd_tA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-Command-Sneaker-LTD-Classic-Sportschuhe-Turnschuh-629993-038/264044334586?hash=item3d7a44cdfa:m:mIl3Nn2F8V_kVGuGtczAGtg
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Laufschuhe-Basic-Sportschuhe-Fitness-Sneaker-Turnschuhe-826136-Schuhe/333086130428?hash=item4d8d7b00fc:m:miztjZdE08q6Ff8FGeA8W2w
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Freizeit-Damen-Herren-Sneakers-Low-Viele-Canvas-Schuhe-811074-Top/351895222243?hash=item51ee96f7e3:m:mxdeGwFfaNEUECsuT-elBqg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/2019-HOT-Sneakers-Sneakers-Herren-Damen-Laufschuhe-Freizeit-Gr-36-44/362642183516?hash=item546f28955c:m:mqgmmdLc1snRVKbT4JIThJA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Laufschuhe-Sportschuhe-Schnurer-Logo-Print-Fitness-Sneaker-830059-Schuhe/362560964276?hash=item546a5146b4:m:m3BzCo8UOjhsNKDb_fJb3-A
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Turnschuhe-Laufschuhe-Sneakers-Sportschuhe-Breathable-Schnurschuhe/383011961439?hash=item592d4aba5f:m:mhFW8BRyF1FGFoY2d_gsN3w
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-90-Essential-Schuhe-Sneaker-Herren-Echtleder-Grau-Blau/291146828589?hash=item43c9b40b2d:m:mtbJhVth8OCnmzZV1mDNj9g
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Stretch-Halbschuhe-Slipper-Sneaker-Turnschuhe-Sportschuhe-Freizeitschuhe/123735222674?hash=item1ccf31a992:m:m8HovJ9FWxXAWhxcK1b3oxw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damensneakers-Sommerschuhe-Stoffschuhe-Leinenschuhe-Laufschuhe-Ballerinas-Sport/293033502485?hash=item443a286715:m:mYJqGpYDdXmg7Tf2YkziLag
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Canvas-Sneaker-Plimsolls-Leinenschuhe-Espadrilles-Ballerinas-Stoffschuhe/113719156776?hash=item1a7a30a028:m:m5IqU6BWP0MSUYtkyFUoZ1w
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/ASICS-GEL-Lyte-V-Sanze-Sneaker-Freizeit-Low-Top-Turnschuhe-Schuhe-H816L-neu/401755430267?hash=item5d8a7d5d7b:m:mzSLSWmsozvz3GvoYSf6gLw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Schuhe-Sporting-New-2019-Unisex-Feiyue-Schuhe-Wushu-Training-Sneaker-Schuhe-FY1/153513291559?hash=item23be1aef27:m:mbpVIaTLqbsKvNbL4y0Hiog
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Sobakov-Schuh-Herren-Sneakers-Grau-Freizeit/163724960451?hash=item261ec4a2c3:m:mQWMHx_LoVeaevjvWzsd1qQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sportschuhe-Turnschuhe-Sneaker-Schnur-Laufschuhe-Freizeit-Gr-36-44/202610925281?hash=item2f2c8d5ee1:m:mj2DkQA_txauavsxvwp1Vgw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/SCHNURSENKEL-FLACH-60-240cm-reisfest-Polyester-fur-Sportschuhe-Sneaker-SNORS/202046109787?hash=item2f0ae2f85b:m:m1vxLIB8wxDKUrlZhyPerVw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Jungen-LED-leuchten-Schuhe-USB-Flashing-Fiber-Optic-leuchtende-Sneakers/382855999319?hash=item5923feef57:m:mxHq5PmeQ-pqhe3-nPgbWVQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/ASICS-Gel-Squad-Unisex-Handballschuhe-Sport-Turn-Hallen-Schuhe-Indoor-E568Y-neu/401759546855?hash=item5d8abc2de7:m:mWgw2kCCtZquOQAWpqBPOzg
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Sneaker-Sportschuhe-Turnschuhe-Laufschuhe-Freizeitschuhe-Gr-36-45/352683562445?hash=item521d9415cd:m:msMOthfsMbJbnQDSRxa7XVw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Sportschuhe-Turnschuhe-Breathable-Turnschuhe-Laufenschuhe-Gr39-46/233233942199?hash=item364dd386b7:m:mocK248EOyyDzJcGUs4QjJA
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/ADIDAS-SUPERSTAR-80S-S79443-HERREN-SNEAKER-WEIs-LEDER-FREIZEIT-TURNSCHUHE/153480302117?epid=1256512986&hash=item23bc238e25:m:mOtZHUccu0m_bWwsvbnGvIQ
+
+blacklisted:[]
+
+mandatory:['mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Converse-Chuck-Taylor-All-Star-OX-Herren-Sneaker-Turnschuhe-Chucks-Halbschuhe/361984201448?epid=9028667423&hash=item5447f092e8:m:mML9p9Pjj2fLiMWfGdzHujQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/DE-Damen-Stretch-Halbschuhe-Slipper-Sneaker-Turnschuhe-Freizeitschuhe-Gr-37-41/283205200330?hash=item41f05869ca:m:mG37j8lOoZFAYTVpuXz4hGg
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Laufschuhe-Sportschuhe-Sneakers-Turnschuhe-Runners-Schuhe/173918147801?hash=item287e5454d9:m:mdkBBpwmsAe1iDIaXTaQItg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Yung-96-Schuh-Herren-Sneakers-Blau-Freizeit/163724960687?hash=item261ec4a3af:m:mQUiJmzyVMJFe_nxvrUElXQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Equipment-Support-ADV-Damen-Herren-Sneaker-Schuhe-BY9109-neu/401765656591?epid=928325788&hash=item5d8b19680f:m:mvDLk20dv0uePfSKyi6Je5g
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-LTD-3-Sneaker-Schuhe-Herren-Schwarz-687977-020/303086407121?hash=item46915b8dd1:m:mCBIAP7TuDA9YmvR0vNkZGw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Klassisch-Chucks-Taylor-Star-Sneaker-Schuhe-Turnschuhe-Herren-Damen-Freizeit/283503091072?hash=item420219dd80:m:msUrJpqaEY0kZ-u4NKNgIJA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sportschuhe-Atmungsaktiv-und-leicht-Turnschuhe-Schnurer-Sneaker-Trendy/293106732070?hash=item443e85cc26:m:mY8P8ex1pqWRMLFOusNMy2g
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sneaker-Low-Canvas-Turnschuhe-Schnurer-Freizeit-Schuhe-811077-Top/272227867998?hash=item3f620b9d5e:m:mwrHyfZzD3jBZ3NKEnMXz_g
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Laufschuhe-Gedachtnisschaum-Lassige-Turnhalle-Walking-Sportschuhe-Slip-on/323813727622?hash=item4b64cd5d86:m:m0ZCZ3C4v2_9rbG8h4yk2QQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Tanjun-Sneaker-Schuhe-Herren-Weis-812654-101/123253371153?epid=19014399575&hash=item1cb2793111:m:mvQbI-pRpe8OqyeKvS-ndFA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/DE-CONVERSE-CHUCK-TAYLOR-ALL-STAR-OX-SCHUHE-KLASSIKER-CHUCKS-LOW-SIZE-EU-35-44/254252052454?hash=item3b329a6fe6:m:m99u5bI6AL4TojLrgcDdYBw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/VAN-S1-Old-Skool-Damen-Herren-Canvas-niedrig-Sneaker-Freizeitschuhe-Skate-Schuhe/254237422115?hash=item3b31bb3223:m:mmpuxBCM19otWqMaKPUiSBQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/FILA-Disruptor-II-Sportschuhe-Shoe-Turnschuhe-Freizeitschuhe-Freizeit-Sneaker-DE/233236258791?hash=item364df6dfe7:m:mEOL9Bw53hKuNihtrOMi88g
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Unisex-C-nverse-Chucks-Taylor-Schuhe-Star-Sneaker-Low-High-Top-Turnschuhe/283509259052?hash=item420277fb2c:m:m8wBYC0rv83fHy4thUR3IhA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Converse-Chuck-Taylor-All-Star-Ballet-Lace-Schuhe-Ballerinas-Sneaker-549397C/301863348041?hash=item4648752749:m:mS6Wu20tvBmOswLAwEjTEbw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneakers-Mesh-Mesh-Schuhe-Mode-Sommer-lassig-atmungsaktiv-Leger-NEUE-DE/113782990370?hash=item1a7dfea622:m:mpgo7VlD7JC_DMpQXRCC6rA
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damenschuhe-Keilabsatz-Ballerina-Plateau-Slipper-Sneaker-Pumps/352594521199?hash=item5218456c6f:m:mkyzCoA3663bOQsspbu0IoA
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Yung-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960423?hash=item261ec4a2a7:m:mOv2adtN66LRoARAmO-bzmQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Huarache-Ultra-Premium-SE-Schuhe-Sneaker-Herren-318429/301906699358?hash=item464b0aa45e:m:me_mzAED30rd0GLiCrlnAUw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Turnschuhe-AIR-Max-270-AH8050-002-Turnschuhe-Sneaker-Sportschuhe/233258050566?epid=24031001618&hash=item364f436406:m:m03HHNiAAZgpCdU1FaQ57nw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Trekkingschuhe-Wanderschuhe-Arbeitsschuhe-Sneakers-Gr-39-40-42-44-46-47/223468563867?hash=item3407c3ad9b:m:meBfpL55d-lR53fE_PZ5iMQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Revolution-4-Laufschuhe-Sneaker-Schuhe-Herren-Weis-AJ3490-100/292792195573?hash=item442bc659f5:m:mtX6FNviE0QzeMvfej0kD3Q
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sneakers-High-Canvas-Freizeit-Turnschuhe-811382-Schuhe/331896427294?hash=item4d4691931e:m:mexrBwuIBXfKsGJCeGsIQCA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Wasser-Fluss-Sportschuhe-Outdoor-Turnschuhe-wandern-Mesh-atmungsaktiv/123793165379?hash=item1cd2a5cc43:m:m0Bc_uM8srlCVlNW9KhZtzw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sportschuhe-PUMA-Smash-v2-L-365215-07/133080186870?hash=item1efc327ff6:m:mNRWWSF9xnCmg9zV-7hlVeQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Brogues-Schuhe-Freizeitschuhe-Sneaker-Schnurschuhe-Halbschuhe-Gr-38-39-40/123716995561?hash=item1cce1b89e9:m:mSzw4ALl0OjbkHkKrZ6oPjg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/New-Herren-Damen-Sportschuhe-Atmungsaktiv-Turnschuhe-Laufschuhe-Running-Sneaker/173920109786?hash=item287e7244da:m:mSIjYug4pMx8gSoT3d2NVIQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Reebok-Work-N-Cushion-Herrenschuhe-Sneaker-Sport-Laufschuhe-weis/153521694388?hash=item23be9b26b4:m:mVhOEjT6HhcL7mrY70ds0xQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/VAN-S1-Skool-Damen-Herren-Canvas-Sneaker-Freizeitschuhe-Skate-Schuhe-niedrig/283516242666?hash=item4202e28aea:m:mTbpJKIBXoVg8atFpguEo7A
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/PUMA-Basket-Classic-Soft-Leder-Sneaker-363824-Schuhe-Unisex-40-41-42-43-44-45-46/192913756137?epid=21023817725&hash=item2cea8e4fe9:m:mlJUm6xifdDqNexsSrcW4RQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/ASICS-CURREO-ONITSUKA-TIGER-MEXICO-FREIZEIT-SCHUHE-RETRO-SNEAKER-HY523/252719518819?hash=item3ad741d463:m:mDP1eR9Rno1DoOJel_xVjrQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-HB-Spezial-Originals-Herren-Freizeitschuh-Turnschuhe-Sneaker-M18209/263860778080?hash=item3d6f53f460:m:mfmBx1SIR4bi_HQ0l5aczZQ
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Herren-Sneaker-Laufschuhe-Turnschuhe-Sportschuhe-Running-GYM-Freizeitschuhe/382986555270?hash=item592bc70f86:m:maRxJAsz5LhEdRfYY3oPxUw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Sportschuhe-Laufschuhe-Runners-Sneakers-814755-Schuhe/332099393820?hash=item4d52aa991c:m:m1oQapSKmFcCXTmyWXW7jfA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/892547-Herren-Sneakers-Low-Freizeit-Turnschuhe-Sportliche-Schuhe-Bequem-Top/264054736715?hash=item3d7ae3874b:m:mCD81J1rBnJMYmIhcOxHJKg
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Hummel-Actus-ML-Sneaker-Freizeitschuhe-Schuhe-schwarz-Gr-37-48/132942381252?hash=item1ef3fbc0c4:m:mrE8lH_iZIkQ-hs6sEH8iow
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Grose-40-47-Herren-Schuhe-Salomon-Speedcross-4-Outdoorschuhe-Laufschuhe-Shoes/283505975272?hash=item420245dfe8:m:m7KxAuplsPq_tdbjXpIsjhQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Performance-Duramo-9-Schuh-Kinder-Sportschuhe-Blau-Running/163723582850?hash=item261eaf9d82:m:mnmpGC6ym7rbZIE62tXCfNQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/NEU-SPORT-HERREN-YEEZY1-350-AUSBILDER-FITNESSSTUDIO-SPORT-LAUFSCHUHE-Gr-39-46/352675977968?hash=item521d205af0:m:miL9QFF8PibRS3C083IzFgA
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Grose-40-46-Herren-Schuhe-Salomon-Speedcross-3-Outdoorschuhe-Laufschuhe-Shoes/283499971506?hash=item4201ea43b2:m:mDfbiNxPckEgVwDAp2KP7vw
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Fila-Schuhe-Herren-Damen-Sportschuhe-Turnschuhe-Disruptor-II-Sneaker-22741102E/372687204029?hash=item56c5e36ebd:m:mOAAq5AoGa4K33dgwW1ll7g
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Stretch-Halbschuhe-Sneaker-Turnschuhe-Sport-Freizeitschuhe-41-42-43/123774481914?hash=item1cd188b5fa:m:m3ZeAzJvB5gusIn8z0tXHDg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Yung-96-Schuh-Herren-Sneakers-Weis-Freizeit/163724960276?hash=item261ec4a214:m:mRL4uE590Uks4MtouhJBbyA
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-Command-Leather-Schuhe-Sneaker-Echtleder-Herren-Schwarz-749760-001/292904704388?epid=1241903834&hash=item44327b1984:m:mRoC0rvpNzurYxwuy4_VYLQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/USB-Leuchtende-Schuhe-LED-Sneaker-Blinkschuhe-Farbwechsel-Herren-Damen/293066141302?hash=item443c1a6e76:m:mvqI8sCwaQKo3i17Pcpl2bA
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/ASICS-AARON-ONITSUKA-TIGER-MEXICO-FREIZEIT-SCHUHE-RETRO-SNEAKER-HN528/253155418285?hash=item3af13d20ad:m:mUGmpGiyQg9oFJLzUgDZRMw
+
+blacklisted:[]
+
+mandatory:['mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Performance-Cloudfoam-Racer-TR-Schuh-Herren-Sneakers-Grau-Freizeit/163724960113?epid=23017174492&hash=item261ec4a171:m:m9VjbJwtGFLLfDJa0NW37XQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Yung-Schuh-Herren-Sneakers-Grau-Freizeit/163724960513?hash=item261ec4a301:m:mRtMowEBI7TZkCESKpFyuqA
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-AIR-FORCE-1-Herren-Damen-Weiss-Schwarz-Low-Sneaker-Turnschuhe-ORIGINAL-Y88/352674455409?hash=item521d091f71:m:mINXTt9AWkd7Wji07DNvREQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Widerrufsfrist.txt', 'mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory Anschrift.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Performance-Questar-Rise-Schuh-Herren-Sneakers-Grau-Freizeit/163724960233?hash=item261ec4a1e9:m:my2h4Qg3ePaGymhG6j7eN4A
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/De-VAN-Old-Skool-Schwarz-Weis-Skate-Schuhe-Flache-Segeltuchschuhe-EU35-44/401765274650?hash=item5d8b13941a:m:maOlYqaXG021JX4IeVN0o5Q
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/2019-Neu-Herrenschuhe-Luftpolster-Sportschuhe-Herren-Freizeitschuhe-Sneaker36-46/333142374319?hash=item4d90d537af:m:mMWiwvNAsAmbYkol422-Xpg
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Herren-Laufschuhe-Sportschuhe-Max-Sneakers-Turnschuhe-Runners-Schuhe-Lich/254209851452?hash=item3b3016803c:m:mmeDimvUj1M7v40CRorIKzQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Kamanda-01-Schuh-Herren-Sneakers-Beige-Freizeit/163724960345?hash=item261ec4a259:m:mREtciLCBqATKKaxDYRPuMQ
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Neu-Herren-Damen-Sportschuhe-Turnschuhe-Sneaker-Outdoor-Freizeit-Laufschuhe-6/362667735768?hash=item5470ae7ad8:m:mtuNlnq4tyH4cz5xmyNV6oQ
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Sportliche-Damen-Ballerinas-Stoffschuhe-Slipper-75305-New-Look/302702689855?hash=item467a7c7e3f:m:mbK68T1UdESHmkqvsVOrWxQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Converse-Chucks-All-Star-OX-1J794C-Charcoal-Canvas-Schuhe-Sneaker-Unisex-Grau/121925338360?epid=1225486967&hash=item1c635104f8:m:mKBb1KMQSnMYNWCPBQQ0ClA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Iniki-I-5923-Herren-Sneaker-Schuhe-Retro-Fashion-Turnschuhe-NEU/123276137963?hash=item1cb3d495eb:m:mgobitB5umI3uQkfmId4psQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:[]
+
+
+ +++ https://www.ebay.de/itm/2019-Originals-Superstar-Damen-Sportschuhe-Sneakers-Herren-Turnschuhe-Sneakers/401776993567?hash=item5d8bc6651f:m:mRppjfYOT5bDHXCoJO2p0FQ
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Schuhe-Trekkingschuhe-Wanderstiefel-Outdoor-Trekking-Sneaker-gemutlich/173893854622?hash=item287ce1a59e:m:mmFwPuchY4jiGsYBvlA2NRw
+
+blacklisted:[]
+
+mandatory:['mandatory telefon (alle deutschen Vorwahlen).txt', 'mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory E-Mail.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Sneaker-Low-Stickereien-Turnschuhe-Schnurer-Freizeit-Schuhe-825931-Trendy/382741972056?hash=item591d330458:m:mN0ETWcOZf1oVyUUZmvgYxw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Freizeit-Damen-Herren-Sneakers-High-Viele-Canvas-Schuh-811070-Top/262412583190?hash=item3d19024116:m:mFgRwLYixMWFssHxrDvuXgQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Tanjun-Schuhe-Sneaker-Herren-812654-011-Schwarz/123176114104?epid=3031016375&hash=item1cadde57b8:m:mG4jC-V7pVOnz15S8sCAUXA
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/DOCKERS-by-Gerli-30ST027-Herren-Sneaker-Washed-Canvas-Schuhe/311798192075?hash=item48989ed7cb:m:mBDDgFt7d0eGOV5dMlX8-4w
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/Damen-Sportschuhe-Laufschuhe-Strick-Schnurer-Turnschuhe-Sneaker-896622-Hot/293004233689?hash=item443869cbd9:m:mdmOGTZrsT6DyHZCvVKBexw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Luftkissen-Laufschuhe-Turnschuhe-Sneaker-Air-Breathable-Sportschuhe-39-44/143206584799?hash=item2157c711df:m:mnSIL8TkGGmssurQs6COF1g
+
+blacklisted:[]
+
+mandatory:['mandatory gesetzliche Mängelhaftung.txt', 'mandatory Sprache.txt', 'mandatory Datenschutzerklärung.txt', 'mandatory - technische Schritte.txt', 'Vertragschluss - mandatory.txt']
+
+
+ +++ https://www.ebay.de/itm/Nike-Air-Max-90-Leather-Schuhe-Sneaker-Echtleder-Herren-Schwarz-302519-001/292499664299?epid=19032259190&hash=item441a56adab:m:mlMZtlsjZo8fqhS0x1bAnCQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/New-Balance-574-ES-Sea-Escape-Sneaker-Schuhe-Herren-ML574/292630858819?hash=item4422288c43:m:mDB8HLhtzjwFV0JaOvsajjw
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/ADIDAS-ZX-FLUX-M19840-HERREN-SNEAKER-SCHWARZ-FREIZEITSCHUH-SPORTSCHUHE/153465265340?epid=1529176644&hash=item23bb3e1cbc:m:mXM3f92KMFKs_ZK-9Wpml_w
+
+blacklisted:[]
+
+mandatory:['mandatory Widerrufsformular.txt', 'mandatory Unterschriftenhinweis.txt', 'mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-Originals-Stan-Smith-Schuhe-Sneaker-Herren-Damen/291800479739?epid=15031852794&hash=item43f0a9f7fb:m:m2uZadq9YuQHSqwHiOlZGeQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Sprache.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Performance-Crazychaos-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960323?hash=item261ec4a243:m:m4f8WQRD3dPTFOfMPXGIAeg
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Samba-OG-Schuh-Herren-Sneakers-Blau-Freizeit/163724960082?hash=item261ec4a152:m:mE3yG2k1Vq-h9jH7AwNHABg
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
+ +++ https://www.ebay.de/itm/Adidas-Originals-Superstar-Klassiker-Sneaker-Turnschuhe-Schwarz-Damen-Manner/254058564193?hash=item3b27120a61:m:mDdrI0uedY3PbY5fcESKPLg
+
+blacklisted:[]
+
+mandatory:['mandatory Datenschutzerklärung.txt']
+
+
+ +++ https://www.ebay.de/itm/Herren-Damen-Sneaker-Canvas-Turnschuhe-Schnurer-Freizeitschuhe-826092-Schuhe/333029498354?hash=item4d8a1addf2:m:mL5CJ-wAsLJn5azSvFclUXQ
+
+blacklisted:['Datenschutzerklärung erstellt mit dem Trusted Shops Rechtstexter in Kooperation mit Wilde Beuger Solmecke Rechtsanwälte']
+
+mandatory:['mandatory Unterschriftenhinweis.txt']
+
+
+ +++ https://www.ebay.de/itm/adidas-Originals-Tresc-Run-Schuh-Herren-Sneakers-Schwarz-Freizeit/163724960567?hash=item261ec4a337:m:mKTbZrHl7FuUvv-iu05yH9w
+
+blacklisted:[]
+
+mandatory:['mandatory E-Mail.txt']
+
+
